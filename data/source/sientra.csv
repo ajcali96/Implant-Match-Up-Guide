@@ -1,0 +1,305 @@
+manufacturer,line,catalog,gel,profile,shape,surface,volume_cc,diameter_cm,projection_cm
+Sientra,HSC / HSC+,10610-160LP,HSC,Low,Round,Smooth,160,10.5,2.5
+Sientra,HSC / HSC+,20610-160LP,HSC,Low,Round,Textured,160,10.5,2.5
+Sientra,HSC / HSC+,10610-080LPP,HSC,Low Plus,Round,Smooth,80,8.0,2.1
+Sientra,HSC / HSC+,10710-080LPP,HSC+,Low Plus,Round,Smooth,80,8.0,2.1
+Sientra,HSC / HSC+,10610-190LP,HSC,Low,Round,Smooth,190,11.4,2.6
+Sientra,HSC / HSC+,20610-190LP,HSC,Low,Round,Textured,190,11.4,2.6
+Sientra,HSC / HSC+,10610-110LPP,HSC,Low Plus,Round,Smooth,110,9.0,2.4
+Sientra,HSC / HSC+,10710-110LPP,HSC+,Low Plus,Round,Smooth,110,9.0,2.4
+Sientra,HSC / HSC+,10610-220LP,HSC,Low,Round,Smooth,220,12.1,2.7
+Sientra,HSC / HSC+,20610-220LP,HSC,Low,Round,Textured,220,12.1,2.7
+Sientra,HSC / HSC+,10610-140LPP,HSC,Low Plus,Round,Smooth,140,9.75,2.6
+Sientra,HSC / HSC+,10710-140LPP,HSC+,Low Plus,Round,Smooth,140,9.75,2.6
+Sientra,HSC / HSC+,10610-250LP,HSC,Low,Round,Smooth,250,12.3,2.8
+Sientra,HSC / HSC+,20610-250LP,HSC,Low,Round,Textured,250,12.3,2.8
+Sientra,HSC / HSC+,10610-155LPP,HSC,Low Plus,Round,Smooth,155,10.0,2.7
+Sientra,HSC / HSC+,10710-155LPP,HSC+,Low Plus,Round,Smooth,155,10.0,2.7
+Sientra,HSC / HSC+,10610-280LP,HSC,Low,Round,Smooth,280,13.0,2.9
+Sientra,HSC / HSC+,20610-280LP,HSC,Low,Round,Textured,280,13.0,2.9
+Sientra,HSC / HSC+,10610-175LPP,HSC,Low Plus,Round,Smooth,175,10.5,2.8
+Sientra,HSC / HSC+,10710-175LPP,HSC+,Low Plus,Round,Smooth,175,10.5,2.8
+Sientra,HSC / HSC+,10610-310LP,HSC,Low,Round,Smooth,310,13.4,3.0
+Sientra,HSC / HSC+,20610-310LP,HSC,Low,Round,Textured,310,13.4,3.0
+Sientra,HSC / HSC+,10610-185LPP,HSC,Low Plus,Round,Smooth,185,10.75,2.9
+Sientra,HSC / HSC+,10710-185LPP,HSC+,Low Plus,Round,Smooth,185,10.75,2.9
+Sientra,HSC / HSC+,10610-340LP,HSC,Low,Round,Smooth,340,13.7,3.1
+Sientra,HSC / HSC+,20610-340LP,HSC,Low,Round,Textured,340,13.7,3.1
+Sientra,HSC / HSC+,10610-195LPP,HSC,Low Plus,Round,Smooth,195,11.0,3.0
+Sientra,HSC / HSC+,10710-195LPP,HSC+,Low Plus,Round,Smooth,195,11.0,3.0
+Sientra,HSC / HSC+,10610-370LP,HSC,Low,Round,Smooth,370,14.5,3.1
+Sientra,HSC / HSC+,20610-370LP,HSC,Low,Round,Textured,370,14.5,3.1
+Sientra,HSC / HSC+,10610-210LPP,HSC,Low Plus,Round,Smooth,210,11.25,3.0
+Sientra,HSC / HSC+,10710-210LPP,HSC+,Low Plus,Round,Smooth,210,11.25,3.0
+Sientra,HSC / HSC+,10610-400LP,HSC,Low,Round,Smooth,400,14.8,3.2
+Sientra,HSC / HSC+,20610-400LP,HSC,Low,Round,Textured,400,14.8,3.2
+Sientra,HSC / HSC+,10610-225LPP,HSC,Low Plus,Round,Smooth,225,11.5,3.1
+Sientra,HSC / HSC+,10710-225LPP,HSC+,Low Plus,Round,Smooth,225,11.5,3.1
+Sientra,HSC / HSC+,10610-425LP,HSC,Low,Round,Smooth,425,15.1,3.2
+Sientra,HSC / HSC+,10610-235LPP,HSC,Low Plus,Round,Smooth,235,11.75,3.2
+Sientra,HSC / HSC+,10710-235LPP,HSC+,Low Plus,Round,Smooth,235,11.75,3.2
+Sientra,HSC / HSC+,10610-450LP,HSC,Low,Round,Smooth,450,15.4,3.2
+Sientra,HSC / HSC+,20610-450LP,HSC,Low,Round,Textured,450,15.4,3.2
+Sientra,HSC / HSC+,10610-255LPP,HSC,Low Plus,Round,Smooth,255,12.0,3.3
+Sientra,HSC / HSC+,10710-255LPP,HSC+,Low Plus,Round,Smooth,255,12.0,3.3
+Sientra,HSC / HSC+,10610-475LP,HSC,Low,Round,Smooth,475,15.6,3.3
+Sientra,HSC / HSC+,10610-280LPP,HSC,Low Plus,Round,Smooth,280,12.5,3.4
+Sientra,HSC / HSC+,10710-280LPP,HSC+,Low Plus,Round,Smooth,280,12.5,3.4
+Sientra,HSC / HSC+,10610-500LP,HSC,Low,Round,Smooth,500,15.9,3.3
+Sientra,HSC / HSC+,20610-500LP,HSC,Low,Round,Textured,500,15.9,3.3
+Sientra,HSC / HSC+,10610-300LPP,HSC,Low Plus,Round,Smooth,300,12.75,3.5
+Sientra,HSC / HSC+,10710-300LPP,HSC+,Low Plus,Round,Smooth,300,12.75,3.5
+Sientra,HSC / HSC+,10610-525LP,HSC,Low,Round,Smooth,525,16.2,3.4
+Sientra,HSC / HSC+,10610-320LPP,HSC,Low Plus,Round,Smooth,320,13.0,3.6
+Sientra,HSC / HSC+,10710-320LPP,HSC+,Low Plus,Round,Smooth,320,13.0,3.6
+Sientra,HSC / HSC+,10610-550LP,HSC,Low,Round,Smooth,550,16.5,3.5
+Sientra,HSC / HSC+,20610-550LP,HSC,Low,Round,Textured,550,16.5,3.5
+Sientra,HSC / HSC+,10610-335LPP,HSC,Low Plus,Round,Smooth,335,13.25,3.6
+Sientra,HSC / HSC+,10710-335LPP,HSC+,Low Plus,Round,Smooth,335,13.25,3.6
+Sientra,HSC / HSC+,10610-575LP,HSC,Low,Round,Smooth,575,16.7,3.6
+Sientra,HSC / HSC+,10610-355LPP,HSC,Low Plus,Round,Smooth,355,13.5,3.7
+Sientra,HSC / HSC+,10710-355LPP,HSC+,Low Plus,Round,Smooth,355,13.5,3.7
+Sientra,HSC / HSC+,10610-600LP,HSC,Low,Round,Smooth,600,17.0,3.7
+Sientra,HSC / HSC+,20610-600LP,HSC,Low,Round,Textured,600,17.0,3.7
+Sientra,HSC / HSC+,10610-390LPP,HSC,Low Plus,Round,Smooth,390,14.0,3.8
+Sientra,HSC / HSC+,10710-390LPP,HSC+,Low Plus,Round,Smooth,390,14.0,3.8
+Sientra,HSC / HSC+,10610-650LP,HSC,Low,Round,Smooth,650,17.5,3.8
+Sientra,HSC / HSC+,20610-650LP,HSC,Low,Round,Textured,650,17.5,3.8
+Sientra,HSC / HSC+,10610-440LPP,HSC,Low Plus,Round,Smooth,440,14.5,3.9
+Sientra,HSC / HSC+,10710-440LPP,HSC+,Low Plus,Round,Smooth,440,14.5,3.9
+Sientra,HSC / HSC+,10610-700LP,HSC,Low,Round,Smooth,700,17.9,3.8
+Sientra,HSC / HSC+,20610-700LP,HSC,Low,Round,Textured,700,17.9,3.8
+Sientra,HSC / HSC+,10512-190MP,HSC,Moderate,Round,Smooth,190,10.3,3.2
+Sientra,HSC / HSC+,10712-190MP,HSC+,Moderate,Round,Smooth,190,10.3,3.2
+Sientra,HSC / HSC+,10512-210MP,HSC,Moderate,Round,Smooth,210,10.7,3.2
+Sientra,HSC / HSC+,10712-210MP,HSC+,Moderate,Round,Smooth,210,10.7,3.2
+Sientra,HSC / HSC+,10512-230MP,HSC,Moderate,Round,Smooth,230,11.1,3.2
+Sientra,HSC / HSC+,10712-230MP,HSC+,Moderate,Round,Smooth,230,11.1,3.2
+Sientra,HSC / HSC+,10512-250MP,HSC,Moderate,Round,Smooth,250,11.4,3.3
+Sientra,HSC / HSC+,10712-250MP,HSC+,Moderate,Round,Smooth,250,11.4,3.3
+Sientra,HSC / HSC+,10512-270MP,HSC,Moderate,Round,Smooth,270,11.8,3.4
+Sientra,HSC / HSC+,10712-270MP,HSC+,Moderate,Round,Smooth,270,11.8,3.4
+Sientra,HSC / HSC+,10512-285MP,HSC,Moderate,Round,Smooth,285,11.9,3.5
+Sientra,HSC / HSC+,10712-285MP,HSC+,Moderate,Round,Smooth,285,11.9,3.5
+Sientra,HSC / HSC+,10512-300MP,HSC,Moderate,Round,Smooth,300,12.0,3.6
+Sientra,HSC / HSC+,10712-300MP,HSC+,Moderate,Round,Smooth,300,12.0,3.6
+Sientra,HSC / HSC+,10512-320MP,HSC,Moderate,Round,Smooth,320,12.3,3.7
+Sientra,HSC / HSC+,10712-320MP,HSC+,Moderate,Round,Smooth,320,12.3,3.7
+Sientra,HSC / HSC+,10512-335MP,HSC,Moderate,Round,Smooth,335,12.4,3.8
+Sientra,HSC / HSC+,10712-335MP,HSC+,Moderate,Round,Smooth,335,12.4,3.8
+Sientra,HSC / HSC+,10512-350MP,HSC,Moderate,Round,Smooth,350,12.5,3.9
+Sientra,HSC / HSC+,10712-350MP,HSC+,Moderate,Round,Smooth,350,12.5,3.9
+Sientra,HSC / HSC+,10512-365MP,HSC,Moderate,Round,Smooth,365,12.7,4.0
+Sientra,HSC / HSC+,10712-365MP,HSC+,Moderate,Round,Smooth,365,12.7,4.0
+Sientra,HSC / HSC+,10512-380MP,HSC,Moderate,Round,Smooth,380,12.8,4.1
+Sientra,HSC / HSC+,10712-380MP,HSC+,Moderate,Round,Smooth,380,12.8,4.1
+Sientra,HSC / HSC+,10512-395MP,HSC,Moderate,Round,Smooth,395,12.9,4.2
+Sientra,HSC / HSC+,10712-395MP,HSC+,Moderate,Round,Smooth,395,12.9,4.2
+Sientra,HSC / HSC+,10512-410MP,HSC,Moderate,Round,Smooth,410,13.0,4.2
+Sientra,HSC / HSC+,10712-410MP,HSC+,Moderate,Round,Smooth,410,13.0,4.2
+Sientra,HSC / HSC+,10512-425MP,HSC,Moderate,Round,Smooth,425,13.2,4.2
+Sientra,HSC / HSC+,10712-425MP,HSC+,Moderate,Round,Smooth,425,13.2,4.2
+Sientra,HSC / HSC+,10512-440MP,HSC,Moderate,Round,Smooth,440,13.4,4.2
+Sientra,HSC / HSC+,10712-440MP,HSC+,Moderate,Round,Smooth,440,13.4,4.2
+Sientra,HSC / HSC+,10512-470MP,HSC,Moderate,Round,Smooth,470,13.7,4.3
+Sientra,HSC / HSC+,10712-470MP,HSC+,Moderate,Round,Smooth,470,13.7,4.3
+Sientra,HSC / HSC+,10512-510MP,HSC,Moderate,Round,Smooth,510,14.0,4.3
+Sientra,HSC / HSC+,10712-510MP,HSC+,Moderate,Round,Smooth,510,14.0,4.3
+Sientra,HSC / HSC+,10512-550MP,HSC,Moderate,Round,Smooth,550,14.8,4.3
+Sientra,HSC / HSC+,10712-550MP,HSC+,Moderate,Round,Smooth,550,14.8,4.3
+Sientra,HSC / HSC+,10512-600MP,HSC,Moderate,Round,Smooth,600,15.4,4.4
+Sientra,HSC / HSC+,10712-600MP,HSC+,Moderate,Round,Smooth,600,15.4,4.4
+Sientra,HSC / HSC+,10512-650MP,HSC,Moderate,Round,Smooth,650,15.8,4.5
+Sientra,HSC / HSC+,10712-650MP,HSC+,Moderate,Round,Smooth,650,15.8,4.5
+Sientra,HSC / HSC+,10512-700MP,HSC,Moderate,Round,Smooth,700,16.1,4.7
+Sientra,HSC / HSC+,10712-700MP,HSC+,Moderate,Round,Smooth,700,16.1,4.7
+Sientra,HSC / HSC+,10621-175MP,HSC,Moderate Plus,Round,Smooth,175,9.3,3.7
+Sientra,HSC / HSC+,20621-175MP,HSC,Moderate Plus,Round,Textured,175,9.3,3.7
+Sientra,HSC / HSC+,10721-175MP,HSC+,Moderate Plus,Round,Smooth,175,9.3,3.7
+Sientra,HSC / HSC+,20721-175MP,HSC+,Moderate Plus,Round,Textured,175,9.3,3.7
+Sientra,HSC / HSC+,10621-195MP,HSC,Moderate Plus,Round,Smooth,195,9.7,3.9
+Sientra,HSC / HSC+,20621-195MP,HSC,Moderate Plus,Round,Textured,195,9.7,3.9
+Sientra,HSC / HSC+,10721-195MP,HSC+,Moderate Plus,Round,Smooth,195,9.7,3.9
+Sientra,HSC / HSC+,20721-195MP,HSC+,Moderate Plus,Round,Textured,195,9.7,3.9
+Sientra,HSC / HSC+,10621-215MP,HSC,Moderate Plus,Round,Smooth,215,10.0,3.9
+Sientra,HSC / HSC+,20621-215MP,HSC,Moderate Plus,Round,Textured,215,10.0,3.9
+Sientra,HSC / HSC+,10721-215MP,HSC+,Moderate Plus,Round,Smooth,215,10.0,3.9
+Sientra,HSC / HSC+,20721-215MP,HSC+,Moderate Plus,Round,Textured,215,10.0,3.9
+Sientra,HSC / HSC+,10621-235MP,HSC,Moderate Plus,Round,Smooth,235,10.5,3.9
+Sientra,HSC / HSC+,20621-235MP,HSC,Moderate Plus,Round,Textured,235,10.5,3.9
+Sientra,HSC / HSC+,10721-235MP,HSC+,Moderate Plus,Round,Smooth,235,10.5,3.9
+Sientra,HSC / HSC+,20721-235MP,HSC+,Moderate Plus,Round,Textured,235,10.5,3.9
+Sientra,HSC / HSC+,10621-255MP,HSC,Moderate Plus,Round,Smooth,255,11.0,3.9
+Sientra,HSC / HSC+,20621-255MP,HSC,Moderate Plus,Round,Textured,255,11.0,3.9
+Sientra,HSC / HSC+,10721-255MP,HSC+,Moderate Plus,Round,Smooth,255,11.0,3.9
+Sientra,HSC / HSC+,20721-255MP,HSC+,Moderate Plus,Round,Textured,255,11.0,3.9
+Sientra,HSC / HSC+,10621-285MP,HSC,Moderate Plus,Round,Smooth,285,11.4,4.0
+Sientra,HSC / HSC+,20621-285MP,HSC,Moderate Plus,Round,Textured,285,11.4,4.0
+Sientra,HSC / HSC+,10721-285MP,HSC+,Moderate Plus,Round,Smooth,285,11.4,4.0
+Sientra,HSC / HSC+,20721-285MP,HSC+,Moderate Plus,Round,Textured,285,11.4,4.0
+Sientra,HSC / HSC+,10621-305MP,HSC,Moderate Plus,Round,Smooth,305,11.7,4.0
+Sientra,HSC / HSC+,20621-305MP,HSC,Moderate Plus,Round,Textured,305,11.7,4.0
+Sientra,HSC / HSC+,10721-305MP,HSC+,Moderate Plus,Round,Smooth,305,11.7,4.0
+Sientra,HSC / HSC+,20721-305MP,HSC+,Moderate Plus,Round,Textured,305,11.7,4.0
+Sientra,HSC / HSC+,10621-325MP,HSC,Moderate Plus,Round,Smooth,325,11.8,4.4
+Sientra,HSC / HSC+,20621-325MP,HSC,Moderate Plus,Round,Textured,325,11.8,4.4
+Sientra,HSC / HSC+,10721-325MP,HSC+,Moderate Plus,Round,Smooth,325,11.8,4.4
+Sientra,HSC / HSC+,20721-325MP,HSC+,Moderate Plus,Round,Textured,325,11.8,4.4
+Sientra,HSC / HSC+,10621-355MP,HSC,Moderate Plus,Round,Smooth,355,12.1,4.4
+Sientra,HSC / HSC+,20621-355MP,HSC,Moderate Plus,Round,Textured,355,12.1,4.4
+Sientra,HSC / HSC+,10721-355MP,HSC+,Moderate Plus,Round,Smooth,355,12.1,4.4
+Sientra,HSC / HSC+,20721-355MP,HSC+,Moderate Plus,Round,Textured,355,12.1,4.4
+Sientra,HSC / HSC+,10621-385MP,HSC,Moderate Plus,Round,Smooth,385,12.5,4.5
+Sientra,HSC / HSC+,20621-385MP,HSC,Moderate Plus,Round,Textured,385,12.5,4.5
+Sientra,HSC / HSC+,10721-385MP,HSC+,Moderate Plus,Round,Smooth,385,12.5,4.5
+Sientra,HSC / HSC+,20721-385MP,HSC+,Moderate Plus,Round,Textured,385,12.5,4.5
+Sientra,HSC / HSC+,10621-415MP,HSC,Moderate Plus,Round,Smooth,415,12.9,4.6
+Sientra,HSC / HSC+,20621-415MP,HSC,Moderate Plus,Round,Textured,415,12.9,4.6
+Sientra,HSC / HSC+,10721-415MP,HSC+,Moderate Plus,Round,Smooth,415,12.9,4.6
+Sientra,HSC / HSC+,20721-415MP,HSC+,Moderate Plus,Round,Textured,415,12.9,4.6
+Sientra,HSC / HSC+,10621-435MP,HSC,Moderate Plus,Round,Smooth,435,13.2,4.6
+Sientra,HSC / HSC+,20621-435MP,HSC,Moderate Plus,Round,Textured,435,13.2,4.6
+Sientra,HSC / HSC+,10721-435MP,HSC+,Moderate Plus,Round,Smooth,435,13.2,4.6
+Sientra,HSC / HSC+,20721-435MP,HSC+,Moderate Plus,Round,Textured,435,13.2,4.6
+Sientra,HSC / HSC+,10621-455MP,HSC,Moderate Plus,Round,Smooth,455,13.3,4.6
+Sientra,HSC / HSC+,20621-455MP,HSC,Moderate Plus,Round,Textured,455,13.3,4.6
+Sientra,HSC / HSC+,10721-455MP,HSC+,Moderate Plus,Round,Smooth,455,13.3,4.6
+Sientra,HSC / HSC+,20721-455MP,HSC+,Moderate Plus,Round,Textured,455,13.3,4.6
+Sientra,HSC / HSC+,10621-485MP,HSC,Moderate Plus,Round,Smooth,485,13.6,4.8
+Sientra,HSC / HSC+,20621-485MP,HSC,Moderate Plus,Round,Textured,485,13.6,4.8
+Sientra,HSC / HSC+,10721-485MP,HSC+,Moderate Plus,Round,Smooth,485,13.6,4.8
+Sientra,HSC / HSC+,20721-485MP,HSC+,Moderate Plus,Round,Textured,485,13.6,4.8
+Sientra,HSC / HSC+,10621-505MP,HSC,Moderate Plus,Round,Smooth,505,13.7,4.9
+Sientra,HSC / HSC+,20621-505MP,HSC,Moderate Plus,Round,Textured,505,13.7,4.9
+Sientra,HSC / HSC+,10721-505MP,HSC+,Moderate Plus,Round,Smooth,505,13.7,4.9
+Sientra,HSC / HSC+,20721-505MP,HSC+,Moderate Plus,Round,Textured,505,13.7,4.9
+Sientra,HSC / HSC+,10621-525MP,HSC,Moderate Plus,Round,Smooth,525,13.8,5.0
+Sientra,HSC / HSC+,20621-525MP,HSC,Moderate Plus,Round,Textured,525,13.8,5.0
+Sientra,HSC / HSC+,10721-525MP,HSC+,Moderate Plus,Round,Smooth,525,13.8,5.0
+Sientra,HSC / HSC+,20721-525MP,HSC+,Moderate Plus,Round,Textured,525,13.8,5.0
+Sientra,HSC / HSC+,10621-540MP,HSC,Moderate Plus,Round,Smooth,540,13.9,5.1
+Sientra,HSC / HSC+,20621-540MP,HSC,Moderate Plus,Round,Textured,540,13.9,5.1
+Sientra,HSC / HSC+,10721-540MP,HSC+,Moderate Plus,Round,Smooth,540,13.9,5.1
+Sientra,HSC / HSC+,20721-540MP,HSC+,Moderate Plus,Round,Textured,540,13.9,5.1
+Sientra,HSC / HSC+,10621-575MP,HSC,Moderate Plus,Round,Smooth,575,14.1,5.2
+Sientra,HSC / HSC+,20621-575MP,HSC,Moderate Plus,Round,Textured,575,14.1,5.2
+Sientra,HSC / HSC+,10721-575MP,HSC+,Moderate Plus,Round,Smooth,575,14.1,5.2
+Sientra,HSC / HSC+,20721-575MP,HSC+,Moderate Plus,Round,Textured,575,14.1,5.2
+Sientra,HSC / HSC+,10621-590MP,HSC,Moderate Plus,Round,Smooth,590,14.3,5.3
+Sientra,HSC / HSC+,20621-590MP,HSC,Moderate Plus,Round,Textured,590,14.3,5.3
+Sientra,HSC / HSC+,10721-590MP,HSC+,Moderate Plus,Round,Smooth,590,14.3,5.3
+Sientra,HSC / HSC+,20721-590MP,HSC+,Moderate Plus,Round,Textured,590,14.3,5.3
+Sientra,HSC / HSC+,10621-625MP,HSC,Moderate Plus,Round,Smooth,625,14.6,5.3
+Sientra,HSC / HSC+,20621-625MP,HSC,Moderate Plus,Round,Textured,625,14.6,5.3
+Sientra,HSC / HSC+,10721-625MP,HSC+,Moderate Plus,Round,Smooth,625,14.6,5.3
+Sientra,HSC / HSC+,20721-625MP,HSC+,Moderate Plus,Round,Textured,625,14.6,5.3
+Sientra,HSC / HSC+,10621-650MP,HSC,Moderate Plus,Round,Smooth,650,14.8,5.4
+Sientra,HSC / HSC+,20621-650MP,HSC,Moderate Plus,Round,Textured,650,14.8,5.4
+Sientra,HSC / HSC+,10721-650MP,HSC+,Moderate Plus,Round,Smooth,650,14.8,5.4
+Sientra,HSC / HSC+,20721-650MP,HSC+,Moderate Plus,Round,Textured,650,14.8,5.4
+Sientra,HSC / HSC+,10621-695MP,HSC,Moderate Plus,Round,Smooth,695,15.1,5.5
+Sientra,HSC / HSC+,20621-695MP,HSC,Moderate Plus,Round,Textured,695,15.1,5.5
+Sientra,HSC / HSC+,10721-695MP,HSC+,Moderate Plus,Round,Smooth,695,15.1,5.5
+Sientra,HSC / HSC+,20721-695MP,HSC+,Moderate Plus,Round,Textured,695,15.1,5.5
+Sientra,HSC / HSC+,10621-190HP,HSC,High,Round,Smooth,190,9.6,4.0
+Sientra,HSC / HSC+,20621-190HP,HSC,High,Round,Textured,190,9.6,4.0
+Sientra,HSC / HSC+,10721-190HP,HSC+,High,Round,Smooth,190,9.6,4.0
+Sientra,HSC / HSC+,20721-190HP,HSC+,High,Round,Textured,190,9.6,4.0
+Sientra,HSC / HSC+,10621-205HP,HSC,High,Round,Smooth,205,9.9,4.1
+Sientra,HSC / HSC+,20621-205HP,HSC,High,Round,Textured,205,9.9,4.1
+Sientra,HSC / HSC+,10721-205HP,HSC+,High,Round,Smooth,205,9.9,4.1
+Sientra,HSC / HSC+,20721-205HP,HSC+,High,Round,Textured,205,9.9,4.1
+Sientra,HSC / HSC+,10621-225HP,HSC,High,Round,Smooth,225,10.2,4.2
+Sientra,HSC / HSC+,20621-225HP,HSC,High,Round,Textured,225,10.2,4.2
+Sientra,HSC / HSC+,10721-225HP,HSC+,High,Round,Smooth,225,10.2,4.2
+Sientra,HSC / HSC+,20721-225HP,HSC+,High,Round,Textured,225,10.2,4.2
+Sientra,HSC / HSC+,10621-240HP,HSC,High,Round,Smooth,240,10.5,4.3
+Sientra,HSC / HSC+,20621-240HP,HSC,High,Round,Textured,240,10.5,4.3
+Sientra,HSC / HSC+,10721-240HP,HSC+,High,Round,Smooth,240,10.5,4.3
+Sientra,HSC / HSC+,20721-240HP,HSC+,High,Round,Textured,240,10.5,4.3
+Sientra,HSC / HSC+,10621-255HP,HSC,High,Round,Smooth,255,10.8,4.4
+Sientra,HSC / HSC+,20621-255HP,HSC,High,Round,Textured,255,10.8,4.4
+Sientra,HSC / HSC+,10721-255HP,HSC+,High,Round,Smooth,255,10.8,4.4
+Sientra,HSC / HSC+,20721-255HP,HSC+,High,Round,Textured,255,10.8,4.4
+Sientra,HSC / HSC+,10621-280HP,HSC,High,Round,Smooth,280,11.1,4.5
+Sientra,HSC / HSC+,20621-280HP,HSC,High,Round,Textured,280,11.1,4.5
+Sientra,HSC / HSC+,10721-280HP,HSC+,High,Round,Smooth,280,11.1,4.5
+Sientra,HSC / HSC+,20721-280HP,HSC+,High,Round,Textured,280,11.1,4.5
+Sientra,HSC / HSC+,10621-300HP,HSC,High,Round,Smooth,300,11.4,4.6
+Sientra,HSC / HSC+,20621-300HP,HSC,High,Round,Textured,300,11.4,4.6
+Sientra,HSC / HSC+,10721-300HP,HSC+,High,Round,Smooth,300,11.4,4.6
+Sientra,HSC / HSC+,20721-300HP,HSC+,High,Round,Textured,300,11.4,4.6
+Sientra,HSC / HSC+,10621-330HP,HSC,High,Round,Smooth,330,11.7,4.7
+Sientra,HSC / HSC+,20621-330HP,HSC,High,Round,Textured,330,11.7,4.7
+Sientra,HSC / HSC+,10721-330HP,HSC+,High,Round,Smooth,330,11.7,4.7
+Sientra,HSC / HSC+,20721-330HP,HSC+,High,Round,Textured,330,11.7,4.7
+Sientra,HSC / HSC+,10621-350HP,HSC,High,Round,Smooth,350,12.0,4.8
+Sientra,HSC / HSC+,20621-350HP,HSC,High,Round,Textured,350,12.0,4.8
+Sientra,HSC / HSC+,10721-350HP,HSC+,High,Round,Smooth,350,12.0,4.8
+Sientra,HSC / HSC+,20721-350HP,HSC+,High,Round,Textured,350,12.0,4.8
+Sientra,HSC / HSC+,10621-385HP,HSC,High,Round,Smooth,385,12.3,4.9
+Sientra,HSC / HSC+,20621-385HP,HSC,High,Round,Textured,385,12.3,4.9
+Sientra,HSC / HSC+,10721-385HP,HSC+,High,Round,Smooth,385,12.3,4.9
+Sientra,HSC / HSC+,20721-385HP,HSC+,High,Round,Textured,385,12.3,4.9
+Sientra,HSC / HSC+,10621-415HP,HSC,High,Round,Smooth,415,12.5,5.0
+Sientra,HSC / HSC+,20621-415HP,HSC,High,Round,Textured,415,12.5,5.0
+Sientra,HSC / HSC+,10721-415HP,HSC+,High,Round,Smooth,415,12.5,5.0
+Sientra,HSC / HSC+,20721-415HP,HSC+,High,Round,Textured,415,12.5,5.0
+Sientra,HSC / HSC+,10621-440HP,HSC,High,Round,Smooth,440,12.8,5.1
+Sientra,HSC / HSC+,20621-440HP,HSC,High,Round,Textured,440,12.8,5.1
+Sientra,HSC / HSC+,10721-440HP,HSC+,High,Round,Smooth,440,12.8,5.1
+Sientra,HSC / HSC+,20721-440HP,HSC+,High,Round,Textured,440,12.8,5.1
+Sientra,HSC / HSC+,10621-470HP,HSC,High,Round,Smooth,470,13.1,5.2
+Sientra,HSC / HSC+,20621-470HP,HSC,High,Round,Textured,470,13.1,5.2
+Sientra,HSC / HSC+,10721-470HP,HSC+,High,Round,Smooth,470,13.1,5.2
+Sientra,HSC / HSC+,20721-470HP,HSC+,High,Round,Textured,470,13.1,5.2
+Sientra,HSC / HSC+,10621-505HP,HSC,High,Round,Smooth,505,13.4,5.3
+Sientra,HSC / HSC+,20621-505HP,HSC,High,Round,Textured,505,13.4,5.3
+Sientra,HSC / HSC+,10721-505HP,HSC+,High,Round,Smooth,505,13.4,5.3
+Sientra,HSC / HSC+,20721-505HP,HSC+,High,Round,Textured,505,13.4,5.3
+Sientra,HSC / HSC+,10621-535HP,HSC,High,Round,Smooth,535,13.7,5.4
+Sientra,HSC / HSC+,20621-535HP,HSC,High,Round,Textured,535,13.7,5.4
+Sientra,HSC / HSC+,10721-535HP,HSC+,High,Round,Smooth,535,13.7,5.4
+Sientra,HSC / HSC+,20721-535HP,HSC+,High,Round,Textured,535,13.7,5.4
+Sientra,HSC / HSC+,10621-565HP,HSC,High,Round,Smooth,565,14.0,5.5
+Sientra,HSC / HSC+,20621-565HP,HSC,High,Round,Textured,565,14.0,5.5
+Sientra,HSC / HSC+,10721-565HP,HSC+,High,Round,Smooth,565,14.0,5.5
+Sientra,HSC / HSC+,20721-565HP,HSC+,High,Round,Textured,565,14.0,5.5
+Sientra,HSC / HSC+,10621-590HP,HSC,High,Round,Smooth,590,14.3,5.6
+Sientra,HSC / HSC+,20621-590HP,HSC,High,Round,Textured,590,14.3,5.6
+Sientra,HSC / HSC+,10721-590HP,HSC+,High,Round,Smooth,590,14.3,5.6
+Sientra,HSC / HSC+,20721-590HP,HSC+,High,Round,Textured,590,14.3,5.6
+Sientra,HSC / HSC+,10621-620HP,HSC,High,Round,Smooth,620,14.5,5.8
+Sientra,HSC / HSC+,20621-620HP,HSC,High,Round,Textured,620,14.5,5.8
+Sientra,HSC / HSC+,10721-620HP,HSC+,High,Round,Smooth,620,14.5,5.8
+Sientra,HSC / HSC+,20721-620HP,HSC+,High,Round,Textured,620,14.5,5.8
+Sientra,HSC / HSC+,10621-650HP,HSC,High,Round,Smooth,650,14.7,5.9
+Sientra,HSC / HSC+,20621-650HP,HSC,High,Round,Textured,650,14.7,5.9
+Sientra,HSC / HSC+,10721-650HP,HSC+,High,Round,Smooth,650,14.7,5.9
+Sientra,HSC / HSC+,20721-650HP,HSC+,High,Round,Textured,650,14.7,5.9
+Sientra,HSC / HSC+,10621-700HP,HSC,High,Round,Smooth,700,14.9,6.0
+Sientra,HSC / HSC+,20621-700HP,HSC,High,Round,Textured,700,14.9,6.0
+Sientra,HSC / HSC+,10721-700HP,HSC+,High,Round,Smooth,700,14.9,6.0
+Sientra,HSC / HSC+,20721-700HP,HSC+,High,Round,Textured,700,14.9,6.0
+Sientra,HSC / HSC+,10621-245XP,HSC,Xtra High,Round,Smooth,245,9.5,5.0
+Sientra,HSC / HSC+,10721-245XP,HSC+,Xtra High,Round,Smooth,245,9.5,5.0
+Sientra,HSC / HSC+,10621-275XP,HSC,Xtra High,Round,Smooth,275,9.75,5.2
+Sientra,HSC / HSC+,10721-275XP,HSC+,Xtra High,Round,Smooth,275,9.75,5.2
+Sientra,HSC / HSC+,10621-295XP,HSC,Xtra High,Round,Smooth,295,10.0,5.3
+Sientra,HSC / HSC+,10721-295XP,HSC+,Xtra High,Round,Smooth,295,10.0,5.3
+Sientra,HSC / HSC+,10621-315XP,HSC,Xtra High,Round,Smooth,315,10.25,5.4
+Sientra,HSC / HSC+,10721-315XP,HSC+,Xtra High,Round,Smooth,315,10.25,5.4
+Sientra,HSC / HSC+,10621-340XP,HSC,Xtra High,Round,Smooth,340,10.5,5.5
+Sientra,HSC / HSC+,10721-340XP,HSC+,Xtra High,Round,Smooth,340,10.5,5.5
+Sientra,HSC / HSC+,10621-360XP,HSC,Xtra High,Round,Smooth,360,10.75,5.6
+Sientra,HSC / HSC+,10721-360XP,HSC+,Xtra High,Round,Smooth,360,10.75,5.6
+Sientra,HSC / HSC+,10621-395XP,HSC,Xtra High,Round,Smooth,395,11.0,5.8
+Sientra,HSC / HSC+,10721-395XP,HSC+,Xtra High,Round,Smooth,395,11.0,5.8
+Sientra,HSC / HSC+,10621-420XP,HSC,Xtra High,Round,Smooth,420,11.25,5.9
+Sientra,HSC / HSC+,10721-420XP,HSC+,Xtra High,Round,Smooth,420,11.25,5.9
+Sientra,HSC / HSC+,10621-445XP,HSC,Xtra High,Round,Smooth,445,11.5,6.0
+Sientra,HSC / HSC+,10721-445XP,HSC+,Xtra High,Round,Smooth,445,11.5,6.0
+Sientra,HSC / HSC+,10621-470XP,HSC,Xtra High,Round,Smooth,470,11.75,6.1
+Sientra,HSC / HSC+,10721-470XP,HSC+,Xtra High,Round,Smooth,470,11.75,6.1
+Sientra,HSC / HSC+,10621-510XP,HSC,Xtra High,Round,Smooth,510,12.0,6.2
+Sientra,HSC / HSC+,10721-510XP,HSC+,Xtra High,Round,Smooth,510,12.0,6.2

@@ -37,11 +37,16 @@
         <option value="same">Same gel tier</option>
         <option value="any">Any gel</option>
       </select></label>
+      <label>Surface <select id="fSurf">
+        <option value="same">Same surface</option>
+        <option value="any">Any surface</option>
+      </select></label>
       <label>Max width difference (cm) <input id="fWidth" type="number" step="0.25" min="0" value="0.5"></label>
       <label>Show <select id="fCount">
         <option>10</option><option>25</option><option>50</option>
       </select></label>
     </div>
+    <p id="gelNote" class="note" hidden></p>
     <p class="hint">Ranked by base width first, then projection, then volume. Differences are match minus base.</p>
     <div class="tablewrap"><table id="results">
       <thead><tr>
@@ -55,8 +60,9 @@
 </main>
 
 <footer>
-  <p>Data transcribed from the Allergan Aesthetics Plastic Surgery Product Order Form (MBD125570-v4 01/22).
-  Always confirm against the current manufacturer documentation before ordering.</p>
+  <p>Sources: Allergan Aesthetics Product Order Form (MBD125570-v4 01/22); Mentor MemoryGel specification
+  data (2026-11-04); Motiva SmoothSilk Round &amp; Ergonomix Order Form (US-ERGO1-0001 R1); Sientra Round HSC &amp;
+  HSC+ Quick Reference Guide (MDC-0270 R11). Always confirm against current manufacturer documentation before ordering.</p>
 </footer>
 
 <script src="data/implants.js"></script>

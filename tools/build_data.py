@@ -1,4 +1,5 @@
-"""Build data/implants.csv and data/implants.js from the transcribed source tables."""
+"""Build data/implants.csv and data/implants.js from the Allergan transcription
+plus every competitor CSV in data/source/ (see extract_sources.py)."""
 import csv, json, pathlib, sys
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from allergan_source import PROFILES
@@ -15,6 +16,15 @@ for _, (label, prefixes, data) in PROFILES.items():
                              catalog=f"{prefix}-{vol}", gel=gel, profile=label,
                              shape="Round", surface="Smooth", volume_cc=vol,
                              diameter_cm=dia, projection_cm=proj))
+
+for src in sorted((ROOT / "data/source").glob("*.csv")):
+    for r in csv.DictReader(open(src)):
+        r["volume_cc"] = int(r["volume_cc"])
+        r["diameter_cm"] = float(r["diameter_cm"]); r["projection_cm"] = float(r["projection_cm"])
+        rows.append(r)
+
+cats = [r["catalog"] for r in rows]
+assert len(cats) == len(set(cats)), "duplicate catalog numbers"
 
 with open(ROOT / "data/implants.csv", "w", newline="") as f:
     w = csv.DictWriter(f, fieldnames=FIELDS); w.writeheader(); w.writerows(rows)
