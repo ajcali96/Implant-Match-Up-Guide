@@ -62,6 +62,7 @@
     current = i;
     if (!i) { $("base").hidden = $("matchSec").hidden = true; return; }
     $("base").hidden = $("matchSec").hidden = false;
+    if ($("q").value.trim().toUpperCase() !== i.catalog) $("q").value = i.catalog;
     $("base").innerHTML = `
       <div class="basehead">
         <span class="cat">${i.catalog}</span>
@@ -124,7 +125,7 @@
   $("results").addEventListener("click", e => {
     const tr = e.target.closest("tr.pickable"); if (!tr) return;
     const hit = base.find(i => i.catalog === tr.dataset.cat);
-    if (hit) { $("q").value = hit.catalog; setDropdowns(hit); show(hit); window.scrollTo({ top: 0, behavior: "smooth" }); }
+    if (hit) { setDropdowns(hit); show(hit); window.scrollTo({ top: 0, behavior: "smooth" }); }
   });
 
   // Gel equivalence notice
