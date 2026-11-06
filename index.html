@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Implant Match-Up Guide</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+  <h1>Implant Match-Up Guide</h1>
+  <p class="sub">Allergan Natrelle INSPIRA is the base. Pick an implant to see the closest matches.</p>
+</header>
+
+<main>
+  <section class="card" id="pick">
+    <h2>1. Choose the Allergan implant</h2>
+    <label class="full">Catalog number
+      <input id="q" list="catalogs" placeholder="e.g. SRX-400" autocomplete="off" spellcheck="false">
+      <datalist id="catalogs"></datalist>
+    </label>
+    <div class="or">or</div>
+    <div class="grid3">
+      <label>Gel <select id="gel"></select></label>
+      <label>Profile <select id="profile"></select></label>
+      <label>Volume (cc) <select id="volume"></select></label>
+    </div>
+  </section>
+
+  <section class="card" id="base" hidden></section>
+
+  <section class="card" id="matchSec" hidden>
+    <h2>2. Closest matches</h2>
+    <div class="filters">
+      <label>Manufacturer <select id="fMfr"></select></label>
+      <label>Gel <select id="fGel">
+        <option value="same">Same gel tier</option>
+        <option value="any">Any gel</option>
+      </select></label>
+      <label>Max width difference (cm) <input id="fWidth" type="number" step="0.25" min="0" value="0.5"></label>
+      <label>Show <select id="fCount">
+        <option>10</option><option>25</option><option>50</option>
+      </select></label>
+    </div>
+    <p class="hint">Ranked by base width first, then projection, then volume. Differences are match minus base.</p>
+    <div class="tablewrap"><table id="results">
+      <thead><tr>
+        <th>Catalog</th><th>Manufacturer</th><th>Gel</th><th>Profile</th>
+        <th>Width cm</th><th>Proj cm</th><th>Volume cc</th>
+      </tr></thead>
+      <tbody></tbody>
+    </table></div>
+    <p id="empty" class="hint" hidden></p>
+  </section>
+</main>
+
+<footer>
+  <p>Data transcribed from the Allergan Aesthetics Plastic Surgery Product Order Form (MBD125570-v4 01/22).
+  Always confirm against the current manufacturer documentation before ordering.</p>
+</footer>
+
+<script src="data/implants.js"></script>
+<script src="data/gels.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
