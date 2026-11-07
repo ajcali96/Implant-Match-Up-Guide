@@ -10,7 +10,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 200,
   "diameter_cm": 9.5,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -22,7 +23,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 225,
   "diameter_cm": 10.0,
-  "projection_cm": 4.5
+  "projection_cm": 4.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -34,7 +36,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 255,
   "diameter_cm": 10.25,
-  "projection_cm": 4.8
+  "projection_cm": 4.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -46,7 +49,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 285,
   "diameter_cm": 10.5,
-  "projection_cm": 5.0
+  "projection_cm": 5.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -58,7 +62,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 310,
   "diameter_cm": 10.75,
-  "projection_cm": 5.2
+  "projection_cm": 5.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -70,7 +75,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 340,
   "diameter_cm": 11.0,
-  "projection_cm": 5.4
+  "projection_cm": 5.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -82,7 +88,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 375,
   "diameter_cm": 11.25,
-  "projection_cm": 5.6
+  "projection_cm": 5.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -94,7 +101,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 400,
   "diameter_cm": 11.5,
-  "projection_cm": 5.8
+  "projection_cm": 5.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -106,7 +114,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 420,
   "diameter_cm": 11.75,
-  "projection_cm": 5.9
+  "projection_cm": 5.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -118,7 +127,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 445,
   "diameter_cm": 12.0,
-  "projection_cm": 6.0
+  "projection_cm": 6.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -130,7 +140,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 470,
   "diameter_cm": 12.25,
-  "projection_cm": 6.1
+  "projection_cm": 6.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -142,7 +153,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 495,
   "diameter_cm": 12.5,
-  "projection_cm": 6.1
+  "projection_cm": 6.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -154,7 +166,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 525,
   "diameter_cm": 12.75,
-  "projection_cm": 6.2
+  "projection_cm": 6.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -166,7 +179,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 545,
   "diameter_cm": 13.0,
-  "projection_cm": 6.2
+  "projection_cm": 6.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -178,7 +192,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 560,
   "diameter_cm": 13.25,
-  "projection_cm": 6.3
+  "projection_cm": 6.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -190,7 +205,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 580,
   "diameter_cm": 13.5,
-  "projection_cm": 6.4
+  "projection_cm": 6.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -202,7 +218,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 615,
   "diameter_cm": 13.75,
-  "projection_cm": 6.4
+  "projection_cm": 6.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -214,7 +231,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 650,
   "diameter_cm": 14.0,
-  "projection_cm": 6.5
+  "projection_cm": 6.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -226,7 +244,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 700,
   "diameter_cm": 14.25,
-  "projection_cm": 6.6
+  "projection_cm": 6.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -238,7 +257,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 750,
   "diameter_cm": 14.5,
-  "projection_cm": 6.7
+  "projection_cm": 6.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -250,7 +270,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 800,
   "diameter_cm": 15.5,
-  "projection_cm": 6.7
+  "projection_cm": 6.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -262,7 +283,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 200,
   "diameter_cm": 9.5,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -274,7 +296,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 225,
   "diameter_cm": 10.0,
-  "projection_cm": 4.5
+  "projection_cm": 4.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -286,7 +309,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 255,
   "diameter_cm": 10.25,
-  "projection_cm": 4.8
+  "projection_cm": 4.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -298,7 +322,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 285,
   "diameter_cm": 10.5,
-  "projection_cm": 5.0
+  "projection_cm": 5.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -310,7 +335,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 310,
   "diameter_cm": 10.75,
-  "projection_cm": 5.2
+  "projection_cm": 5.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -322,7 +348,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 340,
   "diameter_cm": 11.0,
-  "projection_cm": 5.4
+  "projection_cm": 5.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -334,7 +361,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 375,
   "diameter_cm": 11.25,
-  "projection_cm": 5.6
+  "projection_cm": 5.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -346,7 +374,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 400,
   "diameter_cm": 11.5,
-  "projection_cm": 5.8
+  "projection_cm": 5.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -358,7 +387,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 420,
   "diameter_cm": 11.75,
-  "projection_cm": 5.9
+  "projection_cm": 5.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -370,7 +400,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 445,
   "diameter_cm": 12.0,
-  "projection_cm": 6.0
+  "projection_cm": 6.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -382,7 +413,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 470,
   "diameter_cm": 12.25,
-  "projection_cm": 6.1
+  "projection_cm": 6.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -394,7 +426,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 495,
   "diameter_cm": 12.5,
-  "projection_cm": 6.1
+  "projection_cm": 6.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -406,7 +439,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 525,
   "diameter_cm": 12.75,
-  "projection_cm": 6.2
+  "projection_cm": 6.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -418,7 +452,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 545,
   "diameter_cm": 13.0,
-  "projection_cm": 6.2
+  "projection_cm": 6.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -430,7 +465,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 560,
   "diameter_cm": 13.25,
-  "projection_cm": 6.3
+  "projection_cm": 6.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -442,7 +478,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 580,
   "diameter_cm": 13.5,
-  "projection_cm": 6.4
+  "projection_cm": 6.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -454,7 +491,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 615,
   "diameter_cm": 13.75,
-  "projection_cm": 6.4
+  "projection_cm": 6.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -466,7 +504,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 650,
   "diameter_cm": 14.0,
-  "projection_cm": 6.5
+  "projection_cm": 6.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -478,7 +517,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 700,
   "diameter_cm": 14.25,
-  "projection_cm": 6.6
+  "projection_cm": 6.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -490,7 +530,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 750,
   "diameter_cm": 14.5,
-  "projection_cm": 6.7
+  "projection_cm": 6.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -502,7 +543,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 800,
   "diameter_cm": 15.5,
-  "projection_cm": 6.7
+  "projection_cm": 6.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -514,7 +556,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 200,
   "diameter_cm": 9.5,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -526,7 +569,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 225,
   "diameter_cm": 10.0,
-  "projection_cm": 4.5
+  "projection_cm": 4.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -538,7 +582,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 255,
   "diameter_cm": 10.25,
-  "projection_cm": 4.8
+  "projection_cm": 4.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -550,7 +595,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 285,
   "diameter_cm": 10.5,
-  "projection_cm": 5.0
+  "projection_cm": 5.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -562,7 +608,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 310,
   "diameter_cm": 10.75,
-  "projection_cm": 5.2
+  "projection_cm": 5.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -574,7 +621,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 340,
   "diameter_cm": 11.0,
-  "projection_cm": 5.4
+  "projection_cm": 5.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -586,7 +634,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 375,
   "diameter_cm": 11.25,
-  "projection_cm": 5.6
+  "projection_cm": 5.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -598,7 +647,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 400,
   "diameter_cm": 11.5,
-  "projection_cm": 5.8
+  "projection_cm": 5.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -610,7 +660,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 420,
   "diameter_cm": 11.75,
-  "projection_cm": 5.9
+  "projection_cm": 5.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -622,7 +673,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 445,
   "diameter_cm": 12.0,
-  "projection_cm": 6.0
+  "projection_cm": 6.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -634,7 +686,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 470,
   "diameter_cm": 12.25,
-  "projection_cm": 6.1
+  "projection_cm": 6.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -646,7 +699,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 495,
   "diameter_cm": 12.5,
-  "projection_cm": 6.1
+  "projection_cm": 6.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -658,7 +712,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 525,
   "diameter_cm": 12.75,
-  "projection_cm": 6.2
+  "projection_cm": 6.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -670,7 +725,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 545,
   "diameter_cm": 13.0,
-  "projection_cm": 6.2
+  "projection_cm": 6.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -682,7 +738,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 560,
   "diameter_cm": 13.25,
-  "projection_cm": 6.3
+  "projection_cm": 6.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -694,7 +751,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 580,
   "diameter_cm": 13.5,
-  "projection_cm": 6.4
+  "projection_cm": 6.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -706,7 +764,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 615,
   "diameter_cm": 13.75,
-  "projection_cm": 6.4
+  "projection_cm": 6.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -718,7 +777,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 650,
   "diameter_cm": 14.0,
-  "projection_cm": 6.5
+  "projection_cm": 6.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -730,7 +790,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 700,
   "diameter_cm": 14.25,
-  "projection_cm": 6.6
+  "projection_cm": 6.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -742,7 +803,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 750,
   "diameter_cm": 14.5,
-  "projection_cm": 6.7
+  "projection_cm": 6.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -754,7 +816,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 800,
   "diameter_cm": 15.5,
-  "projection_cm": 6.7
+  "projection_cm": 6.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -766,7 +829,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 180,
   "diameter_cm": 9.5,
-  "projection_cm": 4.0
+  "projection_cm": 4.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -778,7 +842,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 200,
   "diameter_cm": 9.75,
-  "projection_cm": 4.1
+  "projection_cm": 4.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -790,7 +855,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 220,
   "diameter_cm": 10.0,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -802,7 +868,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 240,
   "diameter_cm": 10.5,
-  "projection_cm": 4.3
+  "projection_cm": 4.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -814,7 +881,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 265,
   "diameter_cm": 11.0,
-  "projection_cm": 4.4
+  "projection_cm": 4.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -826,7 +894,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 295,
   "diameter_cm": 11.25,
-  "projection_cm": 4.5
+  "projection_cm": 4.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -838,7 +907,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 325,
   "diameter_cm": 11.4,
-  "projection_cm": 4.6
+  "projection_cm": 4.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -850,7 +920,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 335,
   "diameter_cm": 11.5,
-  "projection_cm": 4.7
+  "projection_cm": 4.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -862,7 +933,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 345,
   "diameter_cm": 11.75,
-  "projection_cm": 4.8
+  "projection_cm": 4.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -874,7 +946,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 365,
   "diameter_cm": 12.0,
-  "projection_cm": 4.9
+  "projection_cm": 4.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -886,7 +959,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 385,
   "diameter_cm": 12.25,
-  "projection_cm": 5.0
+  "projection_cm": 5.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -898,7 +972,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 415,
   "diameter_cm": 12.5,
-  "projection_cm": 5.1
+  "projection_cm": 5.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -910,7 +985,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 450,
   "diameter_cm": 12.75,
-  "projection_cm": 5.3
+  "projection_cm": 5.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -922,7 +998,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 485,
   "diameter_cm": 13.0,
-  "projection_cm": 5.4
+  "projection_cm": 5.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -934,7 +1011,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 520,
   "diameter_cm": 13.25,
-  "projection_cm": 5.5
+  "projection_cm": 5.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -946,7 +1024,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 560,
   "diameter_cm": 13.5,
-  "projection_cm": 5.7
+  "projection_cm": 5.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -958,7 +1037,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 605,
   "diameter_cm": 14.0,
-  "projection_cm": 5.8
+  "projection_cm": 5.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -970,7 +1050,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 650,
   "diameter_cm": 14.5,
-  "projection_cm": 5.9
+  "projection_cm": 5.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -982,7 +1063,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 695,
   "diameter_cm": 14.75,
-  "projection_cm": 6.0
+  "projection_cm": 6.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -994,7 +1076,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 745,
   "diameter_cm": 15.0,
-  "projection_cm": 6.1
+  "projection_cm": 6.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1006,7 +1089,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 770,
   "diameter_cm": 15.5,
-  "projection_cm": 6.0
+  "projection_cm": 6.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1018,7 +1102,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 180,
   "diameter_cm": 9.5,
-  "projection_cm": 4.0
+  "projection_cm": 4.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1030,7 +1115,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 200,
   "diameter_cm": 9.75,
-  "projection_cm": 4.1
+  "projection_cm": 4.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1042,7 +1128,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 220,
   "diameter_cm": 10.0,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1054,7 +1141,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 240,
   "diameter_cm": 10.5,
-  "projection_cm": 4.3
+  "projection_cm": 4.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1066,7 +1154,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 265,
   "diameter_cm": 11.0,
-  "projection_cm": 4.4
+  "projection_cm": 4.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1078,7 +1167,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 295,
   "diameter_cm": 11.25,
-  "projection_cm": 4.5
+  "projection_cm": 4.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1090,7 +1180,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 325,
   "diameter_cm": 11.4,
-  "projection_cm": 4.6
+  "projection_cm": 4.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1102,7 +1193,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 335,
   "diameter_cm": 11.5,
-  "projection_cm": 4.7
+  "projection_cm": 4.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1114,7 +1206,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 345,
   "diameter_cm": 11.75,
-  "projection_cm": 4.8
+  "projection_cm": 4.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1126,7 +1219,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 365,
   "diameter_cm": 12.0,
-  "projection_cm": 4.9
+  "projection_cm": 4.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1138,7 +1232,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 385,
   "diameter_cm": 12.25,
-  "projection_cm": 5.0
+  "projection_cm": 5.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1150,7 +1245,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 415,
   "diameter_cm": 12.5,
-  "projection_cm": 5.1
+  "projection_cm": 5.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1162,7 +1258,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 450,
   "diameter_cm": 12.75,
-  "projection_cm": 5.3
+  "projection_cm": 5.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1174,7 +1271,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 485,
   "diameter_cm": 13.0,
-  "projection_cm": 5.4
+  "projection_cm": 5.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1186,7 +1284,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 520,
   "diameter_cm": 13.25,
-  "projection_cm": 5.5
+  "projection_cm": 5.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1198,7 +1297,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 560,
   "diameter_cm": 13.5,
-  "projection_cm": 5.7
+  "projection_cm": 5.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1210,7 +1310,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 605,
   "diameter_cm": 14.0,
-  "projection_cm": 5.8
+  "projection_cm": 5.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1222,7 +1323,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 650,
   "diameter_cm": 14.5,
-  "projection_cm": 5.9
+  "projection_cm": 5.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1234,7 +1336,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 695,
   "diameter_cm": 14.75,
-  "projection_cm": 6.0
+  "projection_cm": 6.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1246,7 +1349,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 745,
   "diameter_cm": 15.0,
-  "projection_cm": 6.1
+  "projection_cm": 6.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1258,7 +1362,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 770,
   "diameter_cm": 15.5,
-  "projection_cm": 6.0
+  "projection_cm": 6.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1270,7 +1375,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 180,
   "diameter_cm": 9.5,
-  "projection_cm": 4.0
+  "projection_cm": 4.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1282,7 +1388,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 200,
   "diameter_cm": 9.75,
-  "projection_cm": 4.1
+  "projection_cm": 4.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1294,7 +1401,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 220,
   "diameter_cm": 10.0,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1306,7 +1414,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 240,
   "diameter_cm": 10.5,
-  "projection_cm": 4.3
+  "projection_cm": 4.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1318,7 +1427,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 265,
   "diameter_cm": 11.0,
-  "projection_cm": 4.4
+  "projection_cm": 4.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1330,7 +1440,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 295,
   "diameter_cm": 11.25,
-  "projection_cm": 4.5
+  "projection_cm": 4.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1342,7 +1453,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 325,
   "diameter_cm": 11.4,
-  "projection_cm": 4.6
+  "projection_cm": 4.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1354,7 +1466,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 335,
   "diameter_cm": 11.5,
-  "projection_cm": 4.7
+  "projection_cm": 4.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1366,7 +1479,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 345,
   "diameter_cm": 11.75,
-  "projection_cm": 4.8
+  "projection_cm": 4.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1378,7 +1492,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 365,
   "diameter_cm": 12.0,
-  "projection_cm": 4.9
+  "projection_cm": 4.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1390,7 +1505,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 385,
   "diameter_cm": 12.25,
-  "projection_cm": 5.0
+  "projection_cm": 5.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1402,7 +1518,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 415,
   "diameter_cm": 12.5,
-  "projection_cm": 5.1
+  "projection_cm": 5.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1414,7 +1531,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 450,
   "diameter_cm": 12.75,
-  "projection_cm": 5.3
+  "projection_cm": 5.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1426,7 +1544,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 485,
   "diameter_cm": 13.0,
-  "projection_cm": 5.4
+  "projection_cm": 5.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1438,7 +1557,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 520,
   "diameter_cm": 13.25,
-  "projection_cm": 5.5
+  "projection_cm": 5.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1450,7 +1570,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 560,
   "diameter_cm": 13.5,
-  "projection_cm": 5.7
+  "projection_cm": 5.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1462,7 +1583,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 605,
   "diameter_cm": 14.0,
-  "projection_cm": 5.8
+  "projection_cm": 5.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1474,7 +1596,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 650,
   "diameter_cm": 14.5,
-  "projection_cm": 5.9
+  "projection_cm": 5.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1486,7 +1609,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 695,
   "diameter_cm": 14.75,
-  "projection_cm": 6.0
+  "projection_cm": 6.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1498,7 +1622,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 745,
   "diameter_cm": 15.0,
-  "projection_cm": 6.1
+  "projection_cm": 6.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1510,7 +1635,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 770,
   "diameter_cm": 15.5,
-  "projection_cm": 6.0
+  "projection_cm": 6.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1522,7 +1648,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 140,
   "diameter_cm": 9.5,
-  "projection_cm": 3.0
+  "projection_cm": 3.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1534,7 +1661,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 175,
   "diameter_cm": 10.0,
-  "projection_cm": 3.3
+  "projection_cm": 3.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1546,7 +1674,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 195,
   "diameter_cm": 10.25,
-  "projection_cm": 3.4
+  "projection_cm": 3.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1558,7 +1687,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 210,
   "diameter_cm": 10.5,
-  "projection_cm": 3.5
+  "projection_cm": 3.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1570,7 +1700,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 240,
   "diameter_cm": 11.0,
-  "projection_cm": 3.7
+  "projection_cm": 3.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1582,7 +1713,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 255,
   "diameter_cm": 11.25,
-  "projection_cm": 3.8
+  "projection_cm": 3.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1594,7 +1726,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 275,
   "diameter_cm": 11.5,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1606,7 +1739,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 295,
   "diameter_cm": 11.75,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1618,7 +1752,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 310,
   "diameter_cm": 12.0,
-  "projection_cm": 4.0
+  "projection_cm": 4.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1630,7 +1765,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 330,
   "diameter_cm": 12.25,
-  "projection_cm": 4.1
+  "projection_cm": 4.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1642,7 +1778,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 345,
   "diameter_cm": 12.5,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1654,7 +1791,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 360,
   "diameter_cm": 12.75,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1666,7 +1804,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 375,
   "diameter_cm": 13.0,
-  "projection_cm": 4.3
+  "projection_cm": 4.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1678,7 +1817,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 405,
   "diameter_cm": 13.25,
-  "projection_cm": 4.4
+  "projection_cm": 4.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1690,7 +1830,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 445,
   "diameter_cm": 13.5,
-  "projection_cm": 4.5
+  "projection_cm": 4.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1702,7 +1843,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 485,
   "diameter_cm": 14.0,
-  "projection_cm": 4.6
+  "projection_cm": 4.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1714,7 +1856,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 520,
   "diameter_cm": 14.5,
-  "projection_cm": 4.8
+  "projection_cm": 4.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1726,7 +1869,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 560,
   "diameter_cm": 14.75,
-  "projection_cm": 4.9
+  "projection_cm": 4.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1738,7 +1882,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 600,
   "diameter_cm": 15.0,
-  "projection_cm": 4.9
+  "projection_cm": 4.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1750,7 +1895,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 640,
   "diameter_cm": 15.5,
-  "projection_cm": 5.0
+  "projection_cm": 5.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1762,7 +1908,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 685,
   "diameter_cm": 16.0,
-  "projection_cm": 5.2
+  "projection_cm": 5.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1774,7 +1921,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 755,
   "diameter_cm": 16.5,
-  "projection_cm": 5.0
+  "projection_cm": 5.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1786,7 +1934,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 140,
   "diameter_cm": 9.5,
-  "projection_cm": 3.0
+  "projection_cm": 3.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1798,7 +1947,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 175,
   "diameter_cm": 10.0,
-  "projection_cm": 3.3
+  "projection_cm": 3.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1810,7 +1960,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 195,
   "diameter_cm": 10.25,
-  "projection_cm": 3.4
+  "projection_cm": 3.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1822,7 +1973,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 210,
   "diameter_cm": 10.5,
-  "projection_cm": 3.5
+  "projection_cm": 3.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1834,7 +1986,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 240,
   "diameter_cm": 11.0,
-  "projection_cm": 3.7
+  "projection_cm": 3.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1846,7 +1999,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 255,
   "diameter_cm": 11.25,
-  "projection_cm": 3.8
+  "projection_cm": 3.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1858,7 +2012,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 275,
   "diameter_cm": 11.5,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1870,7 +2025,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 295,
   "diameter_cm": 11.75,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1882,7 +2038,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 310,
   "diameter_cm": 12.0,
-  "projection_cm": 4.0
+  "projection_cm": 4.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1894,7 +2051,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 330,
   "diameter_cm": 12.25,
-  "projection_cm": 4.1
+  "projection_cm": 4.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1906,7 +2064,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 345,
   "diameter_cm": 12.5,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1918,7 +2077,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 360,
   "diameter_cm": 12.75,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1930,7 +2090,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 375,
   "diameter_cm": 13.0,
-  "projection_cm": 4.3
+  "projection_cm": 4.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1942,7 +2103,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 405,
   "diameter_cm": 13.25,
-  "projection_cm": 4.4
+  "projection_cm": 4.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1954,7 +2116,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 445,
   "diameter_cm": 13.5,
-  "projection_cm": 4.5
+  "projection_cm": 4.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1966,7 +2129,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 485,
   "diameter_cm": 14.0,
-  "projection_cm": 4.6
+  "projection_cm": 4.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1978,7 +2142,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 520,
   "diameter_cm": 14.5,
-  "projection_cm": 4.8
+  "projection_cm": 4.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -1990,7 +2155,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 560,
   "diameter_cm": 14.75,
-  "projection_cm": 4.9
+  "projection_cm": 4.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2002,7 +2168,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 600,
   "diameter_cm": 15.0,
-  "projection_cm": 4.9
+  "projection_cm": 4.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2014,7 +2181,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 640,
   "diameter_cm": 15.5,
-  "projection_cm": 5.0
+  "projection_cm": 5.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2026,7 +2194,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 685,
   "diameter_cm": 16.0,
-  "projection_cm": 5.2
+  "projection_cm": 5.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2038,7 +2207,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 755,
   "diameter_cm": 16.5,
-  "projection_cm": 5.0
+  "projection_cm": 5.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2050,7 +2220,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 140,
   "diameter_cm": 9.5,
-  "projection_cm": 3.0
+  "projection_cm": 3.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2062,7 +2233,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 175,
   "diameter_cm": 10.0,
-  "projection_cm": 3.3
+  "projection_cm": 3.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2074,7 +2246,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 195,
   "diameter_cm": 10.25,
-  "projection_cm": 3.4
+  "projection_cm": 3.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2086,7 +2259,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 210,
   "diameter_cm": 10.5,
-  "projection_cm": 3.5
+  "projection_cm": 3.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2098,7 +2272,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 240,
   "diameter_cm": 11.0,
-  "projection_cm": 3.7
+  "projection_cm": 3.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2110,7 +2285,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 255,
   "diameter_cm": 11.25,
-  "projection_cm": 3.8
+  "projection_cm": 3.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2122,7 +2298,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 275,
   "diameter_cm": 11.5,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2134,7 +2311,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 295,
   "diameter_cm": 11.75,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2146,7 +2324,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 310,
   "diameter_cm": 12.0,
-  "projection_cm": 4.0
+  "projection_cm": 4.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2158,7 +2337,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 330,
   "diameter_cm": 12.25,
-  "projection_cm": 4.1
+  "projection_cm": 4.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2170,7 +2350,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 345,
   "diameter_cm": 12.5,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2182,7 +2363,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 360,
   "diameter_cm": 12.75,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2194,7 +2376,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 375,
   "diameter_cm": 13.0,
-  "projection_cm": 4.3
+  "projection_cm": 4.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2206,7 +2389,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 405,
   "diameter_cm": 13.25,
-  "projection_cm": 4.4
+  "projection_cm": 4.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2218,7 +2402,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 445,
   "diameter_cm": 13.5,
-  "projection_cm": 4.5
+  "projection_cm": 4.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2230,7 +2415,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 485,
   "diameter_cm": 14.0,
-  "projection_cm": 4.6
+  "projection_cm": 4.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2242,7 +2428,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 520,
   "diameter_cm": 14.5,
-  "projection_cm": 4.8
+  "projection_cm": 4.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2254,7 +2441,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 560,
   "diameter_cm": 14.75,
-  "projection_cm": 4.9
+  "projection_cm": 4.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2266,7 +2454,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 600,
   "diameter_cm": 15.0,
-  "projection_cm": 4.9
+  "projection_cm": 4.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2278,7 +2467,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 640,
   "diameter_cm": 15.5,
-  "projection_cm": 5.0
+  "projection_cm": 5.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2290,7 +2480,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 685,
   "diameter_cm": 16.0,
-  "projection_cm": 5.2
+  "projection_cm": 5.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2302,7 +2493,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 755,
   "diameter_cm": 16.5,
-  "projection_cm": 5.0
+  "projection_cm": 5.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2314,7 +2506,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 125,
   "diameter_cm": 9.5,
-  "projection_cm": 2.5
+  "projection_cm": 2.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2326,7 +2519,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 145,
   "diameter_cm": 10.0,
-  "projection_cm": 2.6
+  "projection_cm": 2.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2338,7 +2532,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 165,
   "diameter_cm": 10.5,
-  "projection_cm": 2.7
+  "projection_cm": 2.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2350,7 +2545,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 190,
   "diameter_cm": 11.0,
-  "projection_cm": 2.8
+  "projection_cm": 2.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2362,7 +2558,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 205,
   "diameter_cm": 11.25,
-  "projection_cm": 2.9
+  "projection_cm": 2.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2374,7 +2571,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 220,
   "diameter_cm": 11.5,
-  "projection_cm": 3.0
+  "projection_cm": 3.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2386,7 +2584,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 235,
   "diameter_cm": 11.75,
-  "projection_cm": 3.1
+  "projection_cm": 3.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2398,7 +2597,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 250,
   "diameter_cm": 12.0,
-  "projection_cm": 3.1
+  "projection_cm": 3.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2410,7 +2610,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 265,
   "diameter_cm": 12.25,
-  "projection_cm": 3.2
+  "projection_cm": 3.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2422,7 +2623,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 280,
   "diameter_cm": 12.5,
-  "projection_cm": 3.3
+  "projection_cm": 3.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2434,7 +2636,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 300,
   "diameter_cm": 12.75,
-  "projection_cm": 3.3
+  "projection_cm": 3.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2446,7 +2649,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 320,
   "diameter_cm": 13.0,
-  "projection_cm": 3.4
+  "projection_cm": 3.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2458,7 +2662,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 340,
   "diameter_cm": 13.25,
-  "projection_cm": 3.5
+  "projection_cm": 3.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2470,7 +2675,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 360,
   "diameter_cm": 13.5,
-  "projection_cm": 3.5
+  "projection_cm": 3.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2482,7 +2688,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 400,
   "diameter_cm": 14.0,
-  "projection_cm": 3.6
+  "projection_cm": 3.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2494,7 +2701,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 440,
   "diameter_cm": 14.5,
-  "projection_cm": 3.8
+  "projection_cm": 3.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2506,7 +2714,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 490,
   "diameter_cm": 15.0,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2518,7 +2727,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 540,
   "diameter_cm": 15.5,
-  "projection_cm": 4.0
+  "projection_cm": 4.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2530,7 +2740,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 590,
   "diameter_cm": 16.0,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2542,7 +2753,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 640,
   "diameter_cm": 16.5,
-  "projection_cm": 4.3
+  "projection_cm": 4.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2554,7 +2766,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 125,
   "diameter_cm": 9.5,
-  "projection_cm": 2.5
+  "projection_cm": 2.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2566,7 +2779,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 145,
   "diameter_cm": 10.0,
-  "projection_cm": 2.6
+  "projection_cm": 2.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2578,7 +2792,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 165,
   "diameter_cm": 10.5,
-  "projection_cm": 2.7
+  "projection_cm": 2.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2590,7 +2805,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 190,
   "diameter_cm": 11.0,
-  "projection_cm": 2.8
+  "projection_cm": 2.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2602,7 +2818,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 205,
   "diameter_cm": 11.25,
-  "projection_cm": 2.9
+  "projection_cm": 2.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2614,7 +2831,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 220,
   "diameter_cm": 11.5,
-  "projection_cm": 3.0
+  "projection_cm": 3.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2626,7 +2844,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 235,
   "diameter_cm": 11.75,
-  "projection_cm": 3.1
+  "projection_cm": 3.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2638,7 +2857,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 250,
   "diameter_cm": 12.0,
-  "projection_cm": 3.1
+  "projection_cm": 3.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2650,7 +2870,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 265,
   "diameter_cm": 12.25,
-  "projection_cm": 3.2
+  "projection_cm": 3.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2662,7 +2883,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 280,
   "diameter_cm": 12.5,
-  "projection_cm": 3.3
+  "projection_cm": 3.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2674,7 +2896,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 300,
   "diameter_cm": 12.75,
-  "projection_cm": 3.3
+  "projection_cm": 3.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2686,7 +2909,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 320,
   "diameter_cm": 13.0,
-  "projection_cm": 3.4
+  "projection_cm": 3.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2698,7 +2922,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 340,
   "diameter_cm": 13.25,
-  "projection_cm": 3.5
+  "projection_cm": 3.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2710,7 +2935,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 360,
   "diameter_cm": 13.5,
-  "projection_cm": 3.5
+  "projection_cm": 3.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2722,7 +2948,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 400,
   "diameter_cm": 14.0,
-  "projection_cm": 3.6
+  "projection_cm": 3.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2734,7 +2961,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 440,
   "diameter_cm": 14.5,
-  "projection_cm": 3.8
+  "projection_cm": 3.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2746,7 +2974,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 490,
   "diameter_cm": 15.0,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2758,7 +2987,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 540,
   "diameter_cm": 15.5,
-  "projection_cm": 4.0
+  "projection_cm": 4.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2770,7 +3000,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 590,
   "diameter_cm": 16.0,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2782,7 +3013,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 640,
   "diameter_cm": 16.5,
-  "projection_cm": 4.3
+  "projection_cm": 4.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2794,7 +3026,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 125,
   "diameter_cm": 9.5,
-  "projection_cm": 2.5
+  "projection_cm": 2.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2806,7 +3039,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 145,
   "diameter_cm": 10.0,
-  "projection_cm": 2.6
+  "projection_cm": 2.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2818,7 +3052,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 165,
   "diameter_cm": 10.5,
-  "projection_cm": 2.7
+  "projection_cm": 2.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2830,7 +3065,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 190,
   "diameter_cm": 11.0,
-  "projection_cm": 2.8
+  "projection_cm": 2.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2842,7 +3078,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 205,
   "diameter_cm": 11.25,
-  "projection_cm": 2.9
+  "projection_cm": 2.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2854,7 +3091,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 220,
   "diameter_cm": 11.5,
-  "projection_cm": 3.0
+  "projection_cm": 3.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2866,7 +3104,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 235,
   "diameter_cm": 11.75,
-  "projection_cm": 3.1
+  "projection_cm": 3.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2878,7 +3117,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 250,
   "diameter_cm": 12.0,
-  "projection_cm": 3.1
+  "projection_cm": 3.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2890,7 +3130,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 265,
   "diameter_cm": 12.25,
-  "projection_cm": 3.2
+  "projection_cm": 3.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2902,7 +3143,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 280,
   "diameter_cm": 12.5,
-  "projection_cm": 3.3
+  "projection_cm": 3.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2914,7 +3156,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 300,
   "diameter_cm": 12.75,
-  "projection_cm": 3.3
+  "projection_cm": 3.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2926,7 +3169,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 320,
   "diameter_cm": 13.0,
-  "projection_cm": 3.4
+  "projection_cm": 3.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2938,7 +3182,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 340,
   "diameter_cm": 13.25,
-  "projection_cm": 3.5
+  "projection_cm": 3.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2950,7 +3195,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 360,
   "diameter_cm": 13.5,
-  "projection_cm": 3.5
+  "projection_cm": 3.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2962,7 +3208,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 400,
   "diameter_cm": 14.0,
-  "projection_cm": 3.6
+  "projection_cm": 3.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2974,7 +3221,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 440,
   "diameter_cm": 14.5,
-  "projection_cm": 3.8
+  "projection_cm": 3.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2986,7 +3234,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 490,
   "diameter_cm": 15.0,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -2998,7 +3247,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 540,
   "diameter_cm": 15.5,
-  "projection_cm": 4.0
+  "projection_cm": 4.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3010,7 +3260,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 590,
   "diameter_cm": 16.0,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3022,7 +3273,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 640,
   "diameter_cm": 16.5,
-  "projection_cm": 4.3
+  "projection_cm": 4.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3034,7 +3286,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 110,
   "diameter_cm": 10.0,
-  "projection_cm": 2.0
+  "projection_cm": 2.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3046,7 +3299,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 125,
   "diameter_cm": 10.25,
-  "projection_cm": 2.0
+  "projection_cm": 2.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3058,7 +3312,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 140,
   "diameter_cm": 10.5,
-  "projection_cm": 2.1
+  "projection_cm": 2.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3070,7 +3325,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 170,
   "diameter_cm": 11.0,
-  "projection_cm": 2.2
+  "projection_cm": 2.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3082,7 +3338,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 200,
   "diameter_cm": 11.5,
-  "projection_cm": 2.3
+  "projection_cm": 2.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3094,7 +3351,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 230,
   "diameter_cm": 12.0,
-  "projection_cm": 2.4
+  "projection_cm": 2.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3106,7 +3364,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 260,
   "diameter_cm": 12.5,
-  "projection_cm": 2.5
+  "projection_cm": 2.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3118,7 +3377,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 290,
   "diameter_cm": 13.0,
-  "projection_cm": 2.6
+  "projection_cm": 2.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3130,7 +3390,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 320,
   "diameter_cm": 13.5,
-  "projection_cm": 2.7
+  "projection_cm": 2.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3142,7 +3403,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 350,
   "diameter_cm": 14.0,
-  "projection_cm": 2.8
+  "projection_cm": 2.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3154,7 +3416,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 380,
   "diameter_cm": 14.5,
-  "projection_cm": 2.9
+  "projection_cm": 2.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3166,7 +3429,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 410,
   "diameter_cm": 15.0,
-  "projection_cm": 3.0
+  "projection_cm": 3.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3178,7 +3442,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 460,
   "diameter_cm": 15.5,
-  "projection_cm": 3.1
+  "projection_cm": 3.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3190,7 +3455,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 510,
   "diameter_cm": 16.0,
-  "projection_cm": 3.2
+  "projection_cm": 3.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3202,7 +3468,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 560,
   "diameter_cm": 16.5,
-  "projection_cm": 3.3
+  "projection_cm": 3.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3214,7 +3481,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 610,
   "diameter_cm": 17.0,
-  "projection_cm": 3.4
+  "projection_cm": 3.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3226,7 +3494,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 110,
   "diameter_cm": 10.0,
-  "projection_cm": 2.0
+  "projection_cm": 2.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3238,7 +3507,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 125,
   "diameter_cm": 10.25,
-  "projection_cm": 2.0
+  "projection_cm": 2.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3250,7 +3520,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 140,
   "diameter_cm": 10.5,
-  "projection_cm": 2.1
+  "projection_cm": 2.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3262,7 +3533,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 170,
   "diameter_cm": 11.0,
-  "projection_cm": 2.2
+  "projection_cm": 2.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3274,7 +3546,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 200,
   "diameter_cm": 11.5,
-  "projection_cm": 2.3
+  "projection_cm": 2.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3286,7 +3559,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 230,
   "diameter_cm": 12.0,
-  "projection_cm": 2.4
+  "projection_cm": 2.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3298,7 +3572,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 260,
   "diameter_cm": 12.5,
-  "projection_cm": 2.5
+  "projection_cm": 2.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3310,7 +3585,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 290,
   "diameter_cm": 13.0,
-  "projection_cm": 2.6
+  "projection_cm": 2.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3322,7 +3598,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 320,
   "diameter_cm": 13.5,
-  "projection_cm": 2.7
+  "projection_cm": 2.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3334,7 +3611,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 350,
   "diameter_cm": 14.0,
-  "projection_cm": 2.8
+  "projection_cm": 2.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3346,7 +3624,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 380,
   "diameter_cm": 14.5,
-  "projection_cm": 2.9
+  "projection_cm": 2.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3358,7 +3637,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 410,
   "diameter_cm": 15.0,
-  "projection_cm": 3.0
+  "projection_cm": 3.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3370,7 +3650,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 460,
   "diameter_cm": 15.5,
-  "projection_cm": 3.1
+  "projection_cm": 3.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3382,7 +3663,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 510,
   "diameter_cm": 16.0,
-  "projection_cm": 3.2
+  "projection_cm": 3.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3394,7 +3676,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 560,
   "diameter_cm": 16.5,
-  "projection_cm": 3.3
+  "projection_cm": 3.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3406,7 +3689,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 610,
   "diameter_cm": 17.0,
-  "projection_cm": 3.4
+  "projection_cm": 3.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3418,7 +3702,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 110,
   "diameter_cm": 10.0,
-  "projection_cm": 2.0
+  "projection_cm": 2.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3430,7 +3715,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 125,
   "diameter_cm": 10.25,
-  "projection_cm": 2.0
+  "projection_cm": 2.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3442,7 +3728,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 140,
   "diameter_cm": 10.5,
-  "projection_cm": 2.1
+  "projection_cm": 2.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3454,7 +3741,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 170,
   "diameter_cm": 11.0,
-  "projection_cm": 2.2
+  "projection_cm": 2.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3466,7 +3754,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 200,
   "diameter_cm": 11.5,
-  "projection_cm": 2.3
+  "projection_cm": 2.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3478,7 +3767,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 230,
   "diameter_cm": 12.0,
-  "projection_cm": 2.4
+  "projection_cm": 2.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3490,7 +3780,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 260,
   "diameter_cm": 12.5,
-  "projection_cm": 2.5
+  "projection_cm": 2.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3502,7 +3793,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 290,
   "diameter_cm": 13.0,
-  "projection_cm": 2.6
+  "projection_cm": 2.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3514,7 +3806,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 320,
   "diameter_cm": 13.5,
-  "projection_cm": 2.7
+  "projection_cm": 2.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3526,7 +3819,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 350,
   "diameter_cm": 14.0,
-  "projection_cm": 2.8
+  "projection_cm": 2.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3538,7 +3832,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 380,
   "diameter_cm": 14.5,
-  "projection_cm": 2.9
+  "projection_cm": 2.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3550,7 +3845,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 410,
   "diameter_cm": 15.0,
-  "projection_cm": 3.0
+  "projection_cm": 3.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3562,7 +3858,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 460,
   "diameter_cm": 15.5,
-  "projection_cm": 3.1
+  "projection_cm": 3.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3574,7 +3871,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 510,
   "diameter_cm": 16.0,
-  "projection_cm": 3.2
+  "projection_cm": 3.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3586,7 +3884,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 560,
   "diameter_cm": 16.5,
-  "projection_cm": 3.3
+  "projection_cm": 3.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Allergan",
@@ -3598,7 +3897,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 610,
   "diameter_cm": 17.0,
-  "projection_cm": 3.4
+  "projection_cm": 3.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3610,7 +3910,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 130,
   "diameter_cm": 9.6,
-  "projection_cm": 2.4
+  "projection_cm": 2.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3622,7 +3923,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 150,
   "diameter_cm": 10.3,
-  "projection_cm": 2.5
+  "projection_cm": 2.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3634,7 +3936,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 170,
   "diameter_cm": 10.5,
-  "projection_cm": 2.6
+  "projection_cm": 2.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3646,7 +3949,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 190,
   "diameter_cm": 11.0,
-  "projection_cm": 2.7
+  "projection_cm": 2.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3658,7 +3962,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 215,
   "diameter_cm": 11.6,
-  "projection_cm": 2.8
+  "projection_cm": 2.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3670,7 +3975,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 235,
   "diameter_cm": 11.8,
-  "projection_cm": 2.9
+  "projection_cm": 2.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3682,7 +3988,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 255,
   "diameter_cm": 12.2,
-  "projection_cm": 2.9
+  "projection_cm": 2.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3694,7 +4001,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 275,
   "diameter_cm": 12.5,
-  "projection_cm": 3.0
+  "projection_cm": 3.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3706,7 +4014,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 300,
   "diameter_cm": 12.8,
-  "projection_cm": 3.1
+  "projection_cm": 3.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3718,7 +4027,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 320,
   "diameter_cm": 13.0,
-  "projection_cm": 3.2
+  "projection_cm": 3.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3730,7 +4040,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 340,
   "diameter_cm": 13.4,
-  "projection_cm": 3.2
+  "projection_cm": 3.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3742,7 +4053,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 360,
   "diameter_cm": 13.6,
-  "projection_cm": 3.3
+  "projection_cm": 3.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3754,7 +4066,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 385,
   "diameter_cm": 13.9,
-  "projection_cm": 3.3
+  "projection_cm": 3.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3766,7 +4079,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 405,
   "diameter_cm": 14.2,
-  "projection_cm": 3.4
+  "projection_cm": 3.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3778,7 +4092,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 425,
   "diameter_cm": 14.6,
-  "projection_cm": 3.4
+  "projection_cm": 3.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3790,7 +4105,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 445,
   "diameter_cm": 14.8,
-  "projection_cm": 3.5
+  "projection_cm": 3.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3802,7 +4118,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 470,
   "diameter_cm": 15.0,
-  "projection_cm": 3.5
+  "projection_cm": 3.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3814,7 +4131,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 490,
   "diameter_cm": 15.2,
-  "projection_cm": 3.7
+  "projection_cm": 3.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3826,7 +4144,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 510,
   "diameter_cm": 15.4,
-  "projection_cm": 3.7
+  "projection_cm": 3.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3838,7 +4157,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 555,
   "diameter_cm": 15.7,
-  "projection_cm": 3.8
+  "projection_cm": 3.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3850,7 +4170,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 595,
   "diameter_cm": 16.1,
-  "projection_cm": 3.8
+  "projection_cm": 3.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3862,7 +4183,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 640,
   "diameter_cm": 16.5,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3874,7 +4196,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 680,
   "diameter_cm": 17.0,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3886,7 +4209,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 750,
   "diameter_cm": 17.5,
-  "projection_cm": 4.0
+  "projection_cm": 4.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3898,7 +4222,86 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 800,
   "diameter_cm": 18.0,
-  "projection_cm": 4.1
+  "projection_cm": 4.1,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Enhance",
+  "catalog": "SUHE930",
+  "gel": "MemoryGel",
+  "profile": "Ultra High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 930,
+  "diameter_cm": 15.0,
+  "projection_cm": 7.1,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Enhance",
+  "catalog": "SUHE1030",
+  "gel": "MemoryGel",
+  "profile": "Ultra High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 1030,
+  "diameter_cm": 15.7,
+  "projection_cm": 7.3,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Enhance",
+  "catalog": "SUHE1135",
+  "gel": "MemoryGel",
+  "profile": "Ultra High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 1135,
+  "diameter_cm": 16.3,
+  "projection_cm": 7.5,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Enhance",
+  "catalog": "SUHE1240",
+  "gel": "MemoryGel",
+  "profile": "Ultra High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 1240,
+  "diameter_cm": 16.9,
+  "projection_cm": 7.6,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Enhance",
+  "catalog": "SUHE1340",
+  "gel": "MemoryGel",
+  "profile": "Ultra High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 1340,
+  "diameter_cm": 17.2,
+  "projection_cm": 7.9,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Enhance",
+  "catalog": "SUHE1445",
+  "gel": "MemoryGel",
+  "profile": "Ultra High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 1445,
+  "diameter_cm": 17.7,
+  "projection_cm": 8.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3910,7 +4313,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 100,
   "diameter_cm": 8.2,
-  "projection_cm": 2.7
+  "projection_cm": 2.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3922,7 +4326,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 125,
   "diameter_cm": 8.9,
-  "projection_cm": 2.8
+  "projection_cm": 2.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3934,7 +4339,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 150,
   "diameter_cm": 9.5,
-  "projection_cm": 2.9
+  "projection_cm": 2.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3946,7 +4352,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 175,
   "diameter_cm": 10.0,
-  "projection_cm": 3.1
+  "projection_cm": 3.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3958,7 +4365,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 200,
   "diameter_cm": 10.5,
-  "projection_cm": 3.2
+  "projection_cm": 3.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3970,7 +4378,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 225,
   "diameter_cm": 10.9,
-  "projection_cm": 3.3
+  "projection_cm": 3.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3982,7 +4391,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 250,
   "diameter_cm": 11.3,
-  "projection_cm": 3.4
+  "projection_cm": 3.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -3994,7 +4404,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 275,
   "diameter_cm": 11.7,
-  "projection_cm": 3.5
+  "projection_cm": 3.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4006,7 +4417,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 300,
   "diameter_cm": 12.0,
-  "projection_cm": 3.6
+  "projection_cm": 3.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4018,7 +4430,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 325,
   "diameter_cm": 12.3,
-  "projection_cm": 3.8
+  "projection_cm": 3.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4030,7 +4443,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 350,
   "diameter_cm": 12.5,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4042,7 +4456,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 375,
   "diameter_cm": 12.8,
-  "projection_cm": 4.0
+  "projection_cm": 4.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4054,7 +4469,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 400,
   "diameter_cm": 13.1,
-  "projection_cm": 4.0
+  "projection_cm": 4.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4066,7 +4482,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 425,
   "diameter_cm": 13.5,
-  "projection_cm": 4.1
+  "projection_cm": 4.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4078,7 +4495,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 450,
   "diameter_cm": 13.6,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4090,7 +4508,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 475,
   "diameter_cm": 14.0,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4102,7 +4521,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 500,
   "diameter_cm": 14.1,
-  "projection_cm": 4.3
+  "projection_cm": 4.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4114,7 +4534,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 525,
   "diameter_cm": 14.5,
-  "projection_cm": 4.4
+  "projection_cm": 4.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4126,7 +4547,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 550,
   "diameter_cm": 14.6,
-  "projection_cm": 4.5
+  "projection_cm": 4.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4138,7 +4560,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 575,
   "diameter_cm": 14.9,
-  "projection_cm": 4.6
+  "projection_cm": 4.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4150,7 +4573,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 600,
   "diameter_cm": 15.0,
-  "projection_cm": 4.6
+  "projection_cm": 4.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4162,7 +4586,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 650,
   "diameter_cm": 15.4,
-  "projection_cm": 4.8
+  "projection_cm": 4.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4174,7 +4599,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 700,
   "diameter_cm": 15.8,
-  "projection_cm": 4.9
+  "projection_cm": 4.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4186,7 +4612,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 750,
   "diameter_cm": 16.3,
-  "projection_cm": 4.9
+  "projection_cm": 4.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4198,7 +4625,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 800,
   "diameter_cm": 16.5,
-  "projection_cm": 5.1
+  "projection_cm": 5.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4210,7 +4638,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 125,
   "diameter_cm": 8.3,
-  "projection_cm": 3.5
+  "projection_cm": 3.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4222,7 +4651,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 150,
   "diameter_cm": 8.8,
-  "projection_cm": 3.7
+  "projection_cm": 3.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4234,7 +4664,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 175,
   "diameter_cm": 9.3,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4246,7 +4677,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 200,
   "diameter_cm": 9.7,
-  "projection_cm": 4.0
+  "projection_cm": 4.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4258,7 +4690,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 225,
   "diameter_cm": 10.1,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4270,7 +4703,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 250,
   "diameter_cm": 10.5,
-  "projection_cm": 4.3
+  "projection_cm": 4.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4282,7 +4716,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 275,
   "diameter_cm": 10.8,
-  "projection_cm": 4.4
+  "projection_cm": 4.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4294,7 +4729,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 300,
   "diameter_cm": 11.1,
-  "projection_cm": 4.5
+  "projection_cm": 4.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4306,7 +4742,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 325,
   "diameter_cm": 11.4,
-  "projection_cm": 4.6
+  "projection_cm": 4.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4318,7 +4755,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 350,
   "diameter_cm": 11.7,
-  "projection_cm": 4.8
+  "projection_cm": 4.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4330,7 +4768,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 375,
   "diameter_cm": 12.0,
-  "projection_cm": 4.8
+  "projection_cm": 4.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4342,7 +4781,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 400,
   "diameter_cm": 12.2,
-  "projection_cm": 5.0
+  "projection_cm": 5.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4354,7 +4794,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 425,
   "diameter_cm": 12.5,
-  "projection_cm": 5.0
+  "projection_cm": 5.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4366,7 +4807,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 450,
   "diameter_cm": 12.8,
-  "projection_cm": 5.1
+  "projection_cm": 5.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4378,7 +4820,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 475,
   "diameter_cm": 12.9,
-  "projection_cm": 5.3
+  "projection_cm": 5.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4390,7 +4833,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 500,
   "diameter_cm": 13.2,
-  "projection_cm": 5.3
+  "projection_cm": 5.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4402,7 +4846,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 550,
   "diameter_cm": 13.6,
-  "projection_cm": 5.5
+  "projection_cm": 5.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4414,7 +4859,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 600,
   "diameter_cm": 14.0,
-  "projection_cm": 5.6
+  "projection_cm": 5.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4426,7 +4872,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 650,
   "diameter_cm": 14.4,
-  "projection_cm": 5.7
+  "projection_cm": 5.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4438,7 +4885,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 700,
   "diameter_cm": 14.8,
-  "projection_cm": 5.8
+  "projection_cm": 5.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4450,7 +4898,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 750,
   "diameter_cm": 15.1,
-  "projection_cm": 5.9
+  "projection_cm": 5.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4462,7 +4911,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 800,
   "diameter_cm": 15.5,
-  "projection_cm": 6.0
+  "projection_cm": 6.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4474,7 +4924,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 135,
   "diameter_cm": 7.8,
-  "projection_cm": 4.1
+  "projection_cm": 4.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4486,7 +4937,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 160,
   "diameter_cm": 8.2,
-  "projection_cm": 4.3
+  "projection_cm": 4.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4498,7 +4950,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 185,
   "diameter_cm": 8.4,
-  "projection_cm": 4.4
+  "projection_cm": 4.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4510,7 +4963,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 215,
   "diameter_cm": 8.7,
-  "projection_cm": 4.5
+  "projection_cm": 4.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4522,7 +4976,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 240,
   "diameter_cm": 9.0,
-  "projection_cm": 4.7
+  "projection_cm": 4.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4534,7 +4989,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 270,
   "diameter_cm": 9.3,
-  "projection_cm": 4.8
+  "projection_cm": 4.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4546,7 +5002,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 295,
   "diameter_cm": 9.7,
-  "projection_cm": 5.0
+  "projection_cm": 5.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4558,7 +5015,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 320,
   "diameter_cm": 9.8,
-  "projection_cm": 5.1
+  "projection_cm": 5.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4570,7 +5028,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 350,
   "diameter_cm": 10.1,
-  "projection_cm": 5.2
+  "projection_cm": 5.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4582,7 +5041,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 375,
   "diameter_cm": 10.4,
-  "projection_cm": 5.3
+  "projection_cm": 5.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4594,7 +5054,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 400,
   "diameter_cm": 10.6,
-  "projection_cm": 5.4
+  "projection_cm": 5.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4606,7 +5067,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 430,
   "diameter_cm": 10.9,
-  "projection_cm": 5.6
+  "projection_cm": 5.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4618,7 +5080,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 455,
   "diameter_cm": 11.2,
-  "projection_cm": 5.7
+  "projection_cm": 5.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4630,7 +5093,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 480,
   "diameter_cm": 11.4,
-  "projection_cm": 5.8
+  "projection_cm": 5.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4642,7 +5106,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 535,
   "diameter_cm": 12.0,
-  "projection_cm": 6.1
+  "projection_cm": 6.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4654,7 +5119,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 590,
   "diameter_cm": 12.5,
-  "projection_cm": 6.3
+  "projection_cm": 6.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4666,7 +5132,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 650,
   "diameter_cm": 12.9,
-  "projection_cm": 6.4
+  "projection_cm": 6.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4678,7 +5145,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 700,
   "diameter_cm": 13.3,
-  "projection_cm": 6.5
+  "projection_cm": 6.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4690,7 +5158,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 750,
   "diameter_cm": 13.7,
-  "projection_cm": 6.6
+  "projection_cm": 6.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Mentor",
@@ -4702,7 +5171,4311 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 800,
   "diameter_cm": 14.1,
-  "projection_cm": 6.7
+  "projection_cm": 6.7,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMPB130",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 130,
+  "diameter_cm": 8.8,
+  "projection_cm": 3.1,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMPB160",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 160,
+  "diameter_cm": 9.3,
+  "projection_cm": 3.3,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMPB185",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 185,
+  "diameter_cm": 9.8,
+  "projection_cm": 3.3,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMPB210",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 210,
+  "diameter_cm": 10.3,
+  "projection_cm": 3.5,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMPB235",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 235,
+  "diameter_cm": 10.7,
+  "projection_cm": 3.6,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMPB265",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 265,
+  "diameter_cm": 11.2,
+  "projection_cm": 3.6,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMPB290",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 290,
+  "diameter_cm": 11.4,
+  "projection_cm": 3.9,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMPB320",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 320,
+  "diameter_cm": 11.6,
+  "projection_cm": 4.1,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMPB340",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 340,
+  "diameter_cm": 12.0,
+  "projection_cm": 4.1,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMPB390",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 390,
+  "diameter_cm": 12.7,
+  "projection_cm": 4.1,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMPB430",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 430,
+  "diameter_cm": 12.9,
+  "projection_cm": 4.4,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMPB450",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 450,
+  "diameter_cm": 13.2,
+  "projection_cm": 4.5,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMPB480",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 480,
+  "diameter_cm": 13.4,
+  "projection_cm": 4.6,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMPB530",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 530,
+  "diameter_cm": 13.9,
+  "projection_cm": 4.7,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMPB545",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 545,
+  "diameter_cm": 14.1,
+  "projection_cm": 4.8,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMPB590",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 590,
+  "diameter_cm": 14.3,
+  "projection_cm": 5.0,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMPB630",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 630,
+  "diameter_cm": 14.8,
+  "projection_cm": 5.0,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMPB675",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 675,
+  "diameter_cm": 15.1,
+  "projection_cm": 5.0,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMPB730",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 730,
+  "diameter_cm": 15.6,
+  "projection_cm": 5.1,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMHB150",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 150,
+  "diameter_cm": 8.8,
+  "projection_cm": 3.7,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMHB170",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 170,
+  "diameter_cm": 9.2,
+  "projection_cm": 3.9,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMHB190",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 190,
+  "diameter_cm": 9.5,
+  "projection_cm": 3.9,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMHB210",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 210,
+  "diameter_cm": 9.8,
+  "projection_cm": 4.2,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMHB230",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 230,
+  "diameter_cm": 10.1,
+  "projection_cm": 4.3,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMHB260",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 260,
+  "diameter_cm": 10.5,
+  "projection_cm": 4.3,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMHB280",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 280,
+  "diameter_cm": 10.7,
+  "projection_cm": 4.4,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMHB310",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 310,
+  "diameter_cm": 11.1,
+  "projection_cm": 4.6,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMHB330",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 330,
+  "diameter_cm": 11.3,
+  "projection_cm": 4.7,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMHB355",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 355,
+  "diameter_cm": 11.6,
+  "projection_cm": 4.8,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMHB375",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 375,
+  "diameter_cm": 11.8,
+  "projection_cm": 4.9,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMHB400",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 400,
+  "diameter_cm": 12.1,
+  "projection_cm": 5.0,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMHB435",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 435,
+  "diameter_cm": 12.4,
+  "projection_cm": 5.2,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMHB470",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 470,
+  "diameter_cm": 12.8,
+  "projection_cm": 5.2,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMHB500",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 500,
+  "diameter_cm": 13.2,
+  "projection_cm": 5.3,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMHB545",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 545,
+  "diameter_cm": 13.5,
+  "projection_cm": 5.5,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMHB580",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 580,
+  "diameter_cm": 13.8,
+  "projection_cm": 5.5,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMHB635",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 635,
+  "diameter_cm": 14.2,
+  "projection_cm": 5.6,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMHB700",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 700,
+  "diameter_cm": 14.8,
+  "projection_cm": 5.8,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SMHB775",
+  "gel": "MemoryGel Boost",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 775,
+  "diameter_cm": 15.3,
+  "projection_cm": 6.0,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SHPB200",
+  "gel": "MemoryGel Boost",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 200,
+  "diameter_cm": 9.0,
+  "projection_cm": 4.4,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SHPB235",
+  "gel": "MemoryGel Boost",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 235,
+  "diameter_cm": 9.5,
+  "projection_cm": 4.7,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SHPB260",
+  "gel": "MemoryGel Boost",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 260,
+  "diameter_cm": 9.8,
+  "projection_cm": 4.8,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SHPB285",
+  "gel": "MemoryGel Boost",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 285,
+  "diameter_cm": 10.3,
+  "projection_cm": 4.9,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SHPB325",
+  "gel": "MemoryGel Boost",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 325,
+  "diameter_cm": 10.5,
+  "projection_cm": 5.3,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SHPB370",
+  "gel": "MemoryGel Boost",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 370,
+  "diameter_cm": 11.0,
+  "projection_cm": 5.4,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SHPB405",
+  "gel": "MemoryGel Boost",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 405,
+  "diameter_cm": 11.2,
+  "projection_cm": 5.6,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SHPB440",
+  "gel": "MemoryGel Boost",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 440,
+  "diameter_cm": 11.6,
+  "projection_cm": 5.8,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SHPB480",
+  "gel": "MemoryGel Boost",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 480,
+  "diameter_cm": 12.2,
+  "projection_cm": 5.8,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SHPB520",
+  "gel": "MemoryGel Boost",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 520,
+  "diameter_cm": 12.3,
+  "projection_cm": 6.0,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SHPB545",
+  "gel": "MemoryGel Boost",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 545,
+  "diameter_cm": 12.5,
+  "projection_cm": 6.1,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SHPB585",
+  "gel": "MemoryGel Boost",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 585,
+  "diameter_cm": 12.8,
+  "projection_cm": 6.3,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SHPB635",
+  "gel": "MemoryGel Boost",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 635,
+  "diameter_cm": 13.2,
+  "projection_cm": 6.4,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SHPB685",
+  "gel": "MemoryGel Boost",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 685,
+  "diameter_cm": 13.7,
+  "projection_cm": 6.4,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SHPB740",
+  "gel": "MemoryGel Boost",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 740,
+  "diameter_cm": 14.1,
+  "projection_cm": 6.6,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Boost",
+  "catalog": "SHPB775",
+  "gel": "MemoryGel Boost",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 775,
+  "diameter_cm": 14.4,
+  "projection_cm": 6.6,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMPX115",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 115,
+  "diameter_cm": 8.3,
+  "projection_cm": 3.1,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMPX130",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 130,
+  "diameter_cm": 8.9,
+  "projection_cm": 3.1,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMPX160",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 160,
+  "diameter_cm": 9.5,
+  "projection_cm": 3.3,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMPX190",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 190,
+  "diameter_cm": 10.0,
+  "projection_cm": 3.4,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMPX215",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 215,
+  "diameter_cm": 10.4,
+  "projection_cm": 3.6,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMPX240",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 240,
+  "diameter_cm": 10.8,
+  "projection_cm": 3.7,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMPX270",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 270,
+  "diameter_cm": 11.4,
+  "projection_cm": 3.8,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMPX295",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 295,
+  "diameter_cm": 11.5,
+  "projection_cm": 4.0,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMPX325",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 325,
+  "diameter_cm": 11.9,
+  "projection_cm": 4.1,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMPX350",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 350,
+  "diameter_cm": 12.3,
+  "projection_cm": 4.1,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMPX370",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 370,
+  "diameter_cm": 12.6,
+  "projection_cm": 4.1,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMPX405",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 405,
+  "diameter_cm": 12.7,
+  "projection_cm": 4.4,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMPX440",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 440,
+  "diameter_cm": 13.1,
+  "projection_cm": 4.5,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMPX465",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 465,
+  "diameter_cm": 13.3,
+  "projection_cm": 4.7,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMPX490",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 490,
+  "diameter_cm": 13.6,
+  "projection_cm": 4.7,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMPX525",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 525,
+  "diameter_cm": 13.9,
+  "projection_cm": 4.7,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMPX545",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 545,
+  "diameter_cm": 14.0,
+  "projection_cm": 4.9,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMPX560",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 560,
+  "diameter_cm": 14.3,
+  "projection_cm": 4.8,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMPX605",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 605,
+  "diameter_cm": 14.5,
+  "projection_cm": 5.1,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMPX630",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 630,
+  "diameter_cm": 14.7,
+  "projection_cm": 5.1,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMPX645",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 645,
+  "diameter_cm": 14.9,
+  "projection_cm": 5.1,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMPX685",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 685,
+  "diameter_cm": 15.3,
+  "projection_cm": 5.2,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMPX755",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 755,
+  "diameter_cm": 15.7,
+  "projection_cm": 5.4,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMHX130",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 130,
+  "diameter_cm": 8.4,
+  "projection_cm": 3.5,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMHX150",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 150,
+  "diameter_cm": 8.8,
+  "projection_cm": 3.7,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMHX170",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 170,
+  "diameter_cm": 9.1,
+  "projection_cm": 3.8,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMHX185",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 185,
+  "diameter_cm": 9.5,
+  "projection_cm": 3.9,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMHX210",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 210,
+  "diameter_cm": 9.8,
+  "projection_cm": 4.1,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMHX230",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 230,
+  "diameter_cm": 10.1,
+  "projection_cm": 4.2,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMHX255",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 255,
+  "diameter_cm": 10.5,
+  "projection_cm": 4.3,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMHX280",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 280,
+  "diameter_cm": 10.8,
+  "projection_cm": 4.4,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMHX310",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 310,
+  "diameter_cm": 11.1,
+  "projection_cm": 4.6,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMHX330",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 330,
+  "diameter_cm": 11.4,
+  "projection_cm": 4.7,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMHX350",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 350,
+  "diameter_cm": 11.6,
+  "projection_cm": 4.8,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMHX375",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 375,
+  "diameter_cm": 11.9,
+  "projection_cm": 4.9,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMHX400",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 400,
+  "diameter_cm": 12.1,
+  "projection_cm": 4.9,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMHX430",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 430,
+  "diameter_cm": 12.5,
+  "projection_cm": 5.1,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMHX470",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 470,
+  "diameter_cm": 12.8,
+  "projection_cm": 5.2,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMHX500",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 500,
+  "diameter_cm": 13.1,
+  "projection_cm": 5.3,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMHX545",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 545,
+  "diameter_cm": 13.4,
+  "projection_cm": 5.5,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMHX580",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 580,
+  "diameter_cm": 13.8,
+  "projection_cm": 5.5,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMHX630",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 630,
+  "diameter_cm": 14.2,
+  "projection_cm": 5.7,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMHX700",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 700,
+  "diameter_cm": 14.6,
+  "projection_cm": 5.9,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SMHX775",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 775,
+  "diameter_cm": 15.2,
+  "projection_cm": 6.0,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SHPX150",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 150,
+  "diameter_cm": 8.3,
+  "projection_cm": 4.1,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SHPX180",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 180,
+  "diameter_cm": 8.8,
+  "projection_cm": 4.4,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SHPX200",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 200,
+  "diameter_cm": 9.2,
+  "projection_cm": 4.5,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SHPX235",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 235,
+  "diameter_cm": 9.5,
+  "projection_cm": 4.9,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SHPX260",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 260,
+  "diameter_cm": 9.9,
+  "projection_cm": 5.0,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SHPX285",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 285,
+  "diameter_cm": 10.3,
+  "projection_cm": 5.0,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SHPX335",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 335,
+  "diameter_cm": 10.7,
+  "projection_cm": 5.4,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SHPX355",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 355,
+  "diameter_cm": 11.0,
+  "projection_cm": 5.5,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SHPX380",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 380,
+  "diameter_cm": 11.3,
+  "projection_cm": 5.5,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SHPX415",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 415,
+  "diameter_cm": 11.5,
+  "projection_cm": 5.8,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SHPX450",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 450,
+  "diameter_cm": 11.9,
+  "projection_cm": 5.9,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SHPX465",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 465,
+  "diameter_cm": 12.1,
+  "projection_cm": 5.8,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SHPX490",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 490,
+  "diameter_cm": 12.5,
+  "projection_cm": 5.8,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SHPX535",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 535,
+  "diameter_cm": 12.7,
+  "projection_cm": 6.0,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SHPX560",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 560,
+  "diameter_cm": 12.7,
+  "projection_cm": 6.3,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SHPX595",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 595,
+  "diameter_cm": 13.1,
+  "projection_cm": 6.3,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SHPX650",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 650,
+  "diameter_cm": 13.5,
+  "projection_cm": 6.5,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SHPX700",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 700,
+  "diameter_cm": 14.1,
+  "projection_cm": 6.5,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SHPX755",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 755,
+  "diameter_cm": 14.4,
+  "projection_cm": 6.7,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra",
+  "catalog": "SHPX790",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Smooth",
+  "volume_cc": 790,
+  "diameter_cm": 14.8,
+  "projection_cm": 6.7,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "TMPX115",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 115,
+  "diameter_cm": 8.4,
+  "projection_cm": 3.2,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "TMPX130",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 130,
+  "diameter_cm": 9.1,
+  "projection_cm": 3.1,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "TMPX160",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 160,
+  "diameter_cm": 9.5,
+  "projection_cm": 3.3,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "TMPX190",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 190,
+  "diameter_cm": 10.0,
+  "projection_cm": 3.5,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "TMPX215",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 215,
+  "diameter_cm": 10.5,
+  "projection_cm": 3.6,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "TMPX240",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 240,
+  "diameter_cm": 10.9,
+  "projection_cm": 3.8,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "TMPX270",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 270,
+  "diameter_cm": 11.4,
+  "projection_cm": 3.9,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "TMPX295",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 295,
+  "diameter_cm": 11.6,
+  "projection_cm": 4.1,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "TMPX325",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 325,
+  "diameter_cm": 11.9,
+  "projection_cm": 4.2,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "TMPX350",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 350,
+  "diameter_cm": 12.2,
+  "projection_cm": 4.3,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "TMPX370",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 370,
+  "diameter_cm": 12.7,
+  "projection_cm": 4.3,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "TMPX405",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 405,
+  "diameter_cm": 12.8,
+  "projection_cm": 4.8,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "TMPX440",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 440,
+  "diameter_cm": 13.1,
+  "projection_cm": 4.8,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "TMPX465",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 465,
+  "diameter_cm": 13.4,
+  "projection_cm": 4.8,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "TMPX490",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 490,
+  "diameter_cm": 13.6,
+  "projection_cm": 4.8,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "TMPX525",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 525,
+  "diameter_cm": 13.7,
+  "projection_cm": 5.1,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "TMPX545",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 545,
+  "diameter_cm": 14.1,
+  "projection_cm": 5.0,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "TMPX560",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 560,
+  "diameter_cm": 14.3,
+  "projection_cm": 5.0,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "TMPX605",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 605,
+  "diameter_cm": 14.4,
+  "projection_cm": 5.3,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "TMPX630",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 630,
+  "diameter_cm": 14.6,
+  "projection_cm": 5.4,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "TMPX645",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 645,
+  "diameter_cm": 15.0,
+  "projection_cm": 5.3,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "TMPX685",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 685,
+  "diameter_cm": 15.4,
+  "projection_cm": 5.3,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "TMPX755",
+  "gel": "MemoryGel Xtra",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 755,
+  "diameter_cm": 15.7,
+  "projection_cm": 5.6,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3541307MC",
+  "gel": "MemoryGel",
+  "profile": "Moderate Classic",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 130,
+  "diameter_cm": 9.6,
+  "projection_cm": 2.5,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3541507MC",
+  "gel": "MemoryGel",
+  "profile": "Moderate Classic",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 150,
+  "diameter_cm": 10.2,
+  "projection_cm": 2.6,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3541707MC",
+  "gel": "MemoryGel",
+  "profile": "Moderate Classic",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 170,
+  "diameter_cm": 10.6,
+  "projection_cm": 2.7,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3541907MC",
+  "gel": "MemoryGel",
+  "profile": "Moderate Classic",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 190,
+  "diameter_cm": 11.0,
+  "projection_cm": 2.8,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3542157MC",
+  "gel": "MemoryGel",
+  "profile": "Moderate Classic",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 215,
+  "diameter_cm": 11.5,
+  "projection_cm": 2.9,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3542357MC",
+  "gel": "MemoryGel",
+  "profile": "Moderate Classic",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 235,
+  "diameter_cm": 11.7,
+  "projection_cm": 3.0,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3542557MC",
+  "gel": "MemoryGel",
+  "profile": "Moderate Classic",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 255,
+  "diameter_cm": 12.1,
+  "projection_cm": 3.1,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3542757MC",
+  "gel": "MemoryGel",
+  "profile": "Moderate Classic",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 275,
+  "diameter_cm": 12.3,
+  "projection_cm": 3.2,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3543007MC",
+  "gel": "MemoryGel",
+  "profile": "Moderate Classic",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 300,
+  "diameter_cm": 12.6,
+  "projection_cm": 3.3,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3543207MC",
+  "gel": "MemoryGel",
+  "profile": "Moderate Classic",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 320,
+  "diameter_cm": 12.9,
+  "projection_cm": 3.3,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3543407MC",
+  "gel": "MemoryGel",
+  "profile": "Moderate Classic",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 340,
+  "diameter_cm": 13.2,
+  "projection_cm": 3.4,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3543607MC",
+  "gel": "MemoryGel",
+  "profile": "Moderate Classic",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 360,
+  "diameter_cm": 13.4,
+  "projection_cm": 3.4,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3543857MC",
+  "gel": "MemoryGel",
+  "profile": "Moderate Classic",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 385,
+  "diameter_cm": 13.7,
+  "projection_cm": 3.5,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3544057MC",
+  "gel": "MemoryGel",
+  "profile": "Moderate Classic",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 405,
+  "diameter_cm": 14.0,
+  "projection_cm": 3.6,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3544257MC",
+  "gel": "MemoryGel",
+  "profile": "Moderate Classic",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 425,
+  "diameter_cm": 14.3,
+  "projection_cm": 3.6,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3544457MC",
+  "gel": "MemoryGel",
+  "profile": "Moderate Classic",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 445,
+  "diameter_cm": 14.5,
+  "projection_cm": 3.7,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3544707MC",
+  "gel": "MemoryGel",
+  "profile": "Moderate Classic",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 470,
+  "diameter_cm": 14.7,
+  "projection_cm": 3.7,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3544907MC",
+  "gel": "MemoryGel",
+  "profile": "Moderate Classic",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 490,
+  "diameter_cm": 14.9,
+  "projection_cm": 3.8,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3545107MC",
+  "gel": "MemoryGel",
+  "profile": "Moderate Classic",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 510,
+  "diameter_cm": 15.1,
+  "projection_cm": 3.8,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3545557MC",
+  "gel": "MemoryGel",
+  "profile": "Moderate Classic",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 555,
+  "diameter_cm": 15.4,
+  "projection_cm": 4.0,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3545957MC",
+  "gel": "MemoryGel",
+  "profile": "Moderate Classic",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 595,
+  "diameter_cm": 15.8,
+  "projection_cm": 4.1,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3546407MC",
+  "gel": "MemoryGel",
+  "profile": "Moderate Classic",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 640,
+  "diameter_cm": 16.3,
+  "projection_cm": 4.2,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3546807MC",
+  "gel": "MemoryGel",
+  "profile": "Moderate Classic",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 680,
+  "diameter_cm": 16.7,
+  "projection_cm": 4.2,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3547507MC",
+  "gel": "MemoryGel",
+  "profile": "Moderate Classic",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 750,
+  "diameter_cm": 17.2,
+  "projection_cm": 4.3,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3548007MC",
+  "gel": "MemoryGel",
+  "profile": "Moderate Classic",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 800,
+  "diameter_cm": 17.6,
+  "projection_cm": 4.4,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "THPX150",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 150,
+  "diameter_cm": 8.4,
+  "projection_cm": 4.2,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "THPX175",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 175,
+  "diameter_cm": 9.0,
+  "projection_cm": 4.4,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "THPX200",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 200,
+  "diameter_cm": 9.4,
+  "projection_cm": 4.5,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "THPX230",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 230,
+  "diameter_cm": 9.8,
+  "projection_cm": 4.8,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "THPX255",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 255,
+  "diameter_cm": 10.1,
+  "projection_cm": 4.9,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "THPX285",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 285,
+  "diameter_cm": 10.5,
+  "projection_cm": 5.1,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "THPX325",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 325,
+  "diameter_cm": 10.8,
+  "projection_cm": 5.4,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "THPX340",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 340,
+  "diameter_cm": 11.1,
+  "projection_cm": 5.4,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "THPX365",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 365,
+  "diameter_cm": 11.4,
+  "projection_cm": 5.5,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "THPX405",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 405,
+  "diameter_cm": 11.6,
+  "projection_cm": 5.9,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "THPX425",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 425,
+  "diameter_cm": 11.9,
+  "projection_cm": 5.8,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "THPX455",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 455,
+  "diameter_cm": 12.1,
+  "projection_cm": 6.0,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "THPX470",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 470,
+  "diameter_cm": 12.3,
+  "projection_cm": 5.9,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "THPX515",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 515,
+  "diameter_cm": 12.6,
+  "projection_cm": 6.2,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "THPX545",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 545,
+  "diameter_cm": 12.8,
+  "projection_cm": 6.3,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "THPX570",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 570,
+  "diameter_cm": 13.2,
+  "projection_cm": 6.3,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "THPX620",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 620,
+  "diameter_cm": 13.4,
+  "projection_cm": 6.5,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "THPX680",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 680,
+  "diameter_cm": 14.0,
+  "projection_cm": 6.6,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "THPX725",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 725,
+  "diameter_cm": 14.5,
+  "projection_cm": 6.7,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel Xtra SILTEX",
+  "catalog": "THPX765",
+  "gel": "MemoryGel Xtra",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 765,
+  "diameter_cm": 14.7,
+  "projection_cm": 6.7,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3541001",
+  "gel": "MemoryGel",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 100,
+  "diameter_cm": 8.1,
+  "projection_cm": 2.7,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3541251",
+  "gel": "MemoryGel",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 125,
+  "diameter_cm": 8.8,
+  "projection_cm": 2.9,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3541501",
+  "gel": "MemoryGel",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 150,
+  "diameter_cm": 9.4,
+  "projection_cm": 3.0,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3541751",
+  "gel": "MemoryGel",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 175,
+  "diameter_cm": 10.0,
+  "projection_cm": 3.2,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3542001",
+  "gel": "MemoryGel",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 200,
+  "diameter_cm": 10.5,
+  "projection_cm": 3.3,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3542251",
+  "gel": "MemoryGel",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 225,
+  "diameter_cm": 10.9,
+  "projection_cm": 3.5,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3542501",
+  "gel": "MemoryGel",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 250,
+  "diameter_cm": 11.3,
+  "projection_cm": 3.6,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3542751",
+  "gel": "MemoryGel",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 275,
+  "diameter_cm": 11.7,
+  "projection_cm": 3.7,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3543001",
+  "gel": "MemoryGel",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 300,
+  "diameter_cm": 12.0,
+  "projection_cm": 3.7,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3543251",
+  "gel": "MemoryGel",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 325,
+  "diameter_cm": 12.3,
+  "projection_cm": 3.8,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3543501",
+  "gel": "MemoryGel",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 350,
+  "diameter_cm": 12.6,
+  "projection_cm": 3.8,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3543751",
+  "gel": "MemoryGel",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 375,
+  "diameter_cm": 12.9,
+  "projection_cm": 3.9,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3544001",
+  "gel": "MemoryGel",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 400,
+  "diameter_cm": 13.2,
+  "projection_cm": 4.0,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3544251",
+  "gel": "MemoryGel",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 425,
+  "diameter_cm": 13.5,
+  "projection_cm": 4.2,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3544501",
+  "gel": "MemoryGel",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 450,
+  "diameter_cm": 13.7,
+  "projection_cm": 4.1,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3544751",
+  "gel": "MemoryGel",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 475,
+  "diameter_cm": 13.9,
+  "projection_cm": 4.4,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3545001",
+  "gel": "MemoryGel",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 500,
+  "diameter_cm": 14.1,
+  "projection_cm": 4.2,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3545251",
+  "gel": "MemoryGel",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 525,
+  "diameter_cm": 14.4,
+  "projection_cm": 4.6,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3545501",
+  "gel": "MemoryGel",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 550,
+  "diameter_cm": 14.4,
+  "projection_cm": 4.4,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3545751",
+  "gel": "MemoryGel",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 575,
+  "diameter_cm": 14.9,
+  "projection_cm": 4.7,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3546001",
+  "gel": "MemoryGel",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 600,
+  "diameter_cm": 14.7,
+  "projection_cm": 4.5,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3546501",
+  "gel": "MemoryGel",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 650,
+  "diameter_cm": 15.5,
+  "projection_cm": 4.9,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3547001",
+  "gel": "MemoryGel",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 700,
+  "diameter_cm": 15.7,
+  "projection_cm": 4.8,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3547501",
+  "gel": "MemoryGel",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 750,
+  "diameter_cm": 16.2,
+  "projection_cm": 5.1,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3548001",
+  "gel": "MemoryGel",
+  "profile": "Moderate Plus",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 800,
+  "diameter_cm": 16.6,
+  "projection_cm": 5.0,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3544125",
+  "gel": "MemoryGel",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 125,
+  "diameter_cm": 8.4,
+  "projection_cm": 3.6,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3544150",
+  "gel": "MemoryGel",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 150,
+  "diameter_cm": 8.9,
+  "projection_cm": 3.8,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3544175",
+  "gel": "MemoryGel",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 175,
+  "diameter_cm": 9.4,
+  "projection_cm": 4.0,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3544200",
+  "gel": "MemoryGel",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 200,
+  "diameter_cm": 9.9,
+  "projection_cm": 4.1,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3544225",
+  "gel": "MemoryGel",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 225,
+  "diameter_cm": 10.2,
+  "projection_cm": 4.3,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3544250",
+  "gel": "MemoryGel",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 250,
+  "diameter_cm": 10.5,
+  "projection_cm": 4.5,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3544275",
+  "gel": "MemoryGel",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 275,
+  "diameter_cm": 10.9,
+  "projection_cm": 4.6,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3544300",
+  "gel": "MemoryGel",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 300,
+  "diameter_cm": 11.1,
+  "projection_cm": 4.7,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3544325",
+  "gel": "MemoryGel",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 325,
+  "diameter_cm": 11.5,
+  "projection_cm": 4.8,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3544350",
+  "gel": "MemoryGel",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 350,
+  "diameter_cm": 11.7,
+  "projection_cm": 4.9,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3544375",
+  "gel": "MemoryGel",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 375,
+  "diameter_cm": 12.0,
+  "projection_cm": 5.0,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3544400",
+  "gel": "MemoryGel",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 400,
+  "diameter_cm": 12.3,
+  "projection_cm": 5.1,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3544425",
+  "gel": "MemoryGel",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 425,
+  "diameter_cm": 12.5,
+  "projection_cm": 5.2,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3544450",
+  "gel": "MemoryGel",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 450,
+  "diameter_cm": 12.7,
+  "projection_cm": 5.2,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3544475",
+  "gel": "MemoryGel",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 475,
+  "diameter_cm": 12.9,
+  "projection_cm": 5.4,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3544500",
+  "gel": "MemoryGel",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 500,
+  "diameter_cm": 13.2,
+  "projection_cm": 5.4,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3544550",
+  "gel": "MemoryGel",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 550,
+  "diameter_cm": 13.5,
+  "projection_cm": 5.6,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3544600",
+  "gel": "MemoryGel",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 600,
+  "diameter_cm": 14.0,
+  "projection_cm": 5.7,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3544650",
+  "gel": "MemoryGel",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 650,
+  "diameter_cm": 14.3,
+  "projection_cm": 5.8,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3544700",
+  "gel": "MemoryGel",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 700,
+  "diameter_cm": 14.7,
+  "projection_cm": 6.0,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3544750",
+  "gel": "MemoryGel",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 750,
+  "diameter_cm": 15.1,
+  "projection_cm": 6.0,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3544800",
+  "gel": "MemoryGel",
+  "profile": "High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 800,
+  "diameter_cm": 15.4,
+  "projection_cm": 6.3,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3545135",
+  "gel": "MemoryGel",
+  "profile": "Ultra High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 135,
+  "diameter_cm": 8.0,
+  "projection_cm": 4.3,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3545160",
+  "gel": "MemoryGel",
+  "profile": "Ultra High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 160,
+  "diameter_cm": 8.4,
+  "projection_cm": 4.5,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3545185",
+  "gel": "MemoryGel",
+  "profile": "Ultra High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 185,
+  "diameter_cm": 8.6,
+  "projection_cm": 4.6,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3545215",
+  "gel": "MemoryGel",
+  "profile": "Ultra High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 215,
+  "diameter_cm": 8.9,
+  "projection_cm": 4.7,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3545240",
+  "gel": "MemoryGel",
+  "profile": "Ultra High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 240,
+  "diameter_cm": 9.2,
+  "projection_cm": 4.9,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3545270",
+  "gel": "MemoryGel",
+  "profile": "Ultra High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 270,
+  "diameter_cm": 9.5,
+  "projection_cm": 5.0,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3545295",
+  "gel": "MemoryGel",
+  "profile": "Ultra High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 295,
+  "diameter_cm": 9.9,
+  "projection_cm": 5.2,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3545320",
+  "gel": "MemoryGel",
+  "profile": "Ultra High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 320,
+  "diameter_cm": 10.0,
+  "projection_cm": 5.3,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3545350",
+  "gel": "MemoryGel",
+  "profile": "Ultra High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 350,
+  "diameter_cm": 10.3,
+  "projection_cm": 5.4,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3545375",
+  "gel": "MemoryGel",
+  "profile": "Ultra High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 375,
+  "diameter_cm": 10.5,
+  "projection_cm": 5.5,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3545400",
+  "gel": "MemoryGel",
+  "profile": "Ultra High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 400,
+  "diameter_cm": 10.8,
+  "projection_cm": 5.6,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3545430",
+  "gel": "MemoryGel",
+  "profile": "Ultra High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 430,
+  "diameter_cm": 11.1,
+  "projection_cm": 5.8,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3545455",
+  "gel": "MemoryGel",
+  "profile": "Ultra High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 455,
+  "diameter_cm": 11.3,
+  "projection_cm": 5.9,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3545480",
+  "gel": "MemoryGel",
+  "profile": "Ultra High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 480,
+  "diameter_cm": 11.6,
+  "projection_cm": 6.0,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3545535",
+  "gel": "MemoryGel",
+  "profile": "Ultra High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 535,
+  "diameter_cm": 12.1,
+  "projection_cm": 6.3,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3545590",
+  "gel": "MemoryGel",
+  "profile": "Ultra High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 590,
+  "diameter_cm": 12.6,
+  "projection_cm": 6.5,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3545650",
+  "gel": "MemoryGel",
+  "profile": "Ultra High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 650,
+  "diameter_cm": 13.0,
+  "projection_cm": 6.6,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryGel SILTEX",
+  "catalog": "3545700",
+  "gel": "MemoryGel",
+  "profile": "Ultra High",
+  "shape": "Round",
+  "surface": "Textured",
+  "volume_cc": 700,
+  "diameter_cm": 13.4,
+  "projection_cm": 6.7,
+  "height_cm": ""
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3540908",
+  "gel": "MemoryShape",
+  "profile": "MM Medium Height, Moderate Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 120,
+  "diameter_cm": 9.0,
+  "projection_cm": 3.3,
+  "height_cm": 8.5
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3540958",
+  "gel": "MemoryShape",
+  "profile": "MM Medium Height, Moderate Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 135,
+  "diameter_cm": 9.5,
+  "projection_cm": 3.5,
+  "height_cm": 8.9
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3541008",
+  "gel": "MemoryShape",
+  "profile": "MM Medium Height, Moderate Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 155,
+  "diameter_cm": 10.0,
+  "projection_cm": 3.7,
+  "height_cm": 9.4
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3541058",
+  "gel": "MemoryShape",
+  "profile": "MM Medium Height, Moderate Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 180,
+  "diameter_cm": 10.5,
+  "projection_cm": 3.8,
+  "height_cm": 9.9
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3541108",
+  "gel": "MemoryShape",
+  "profile": "MM Medium Height, Moderate Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 215,
+  "diameter_cm": 11.0,
+  "projection_cm": 3.9,
+  "height_cm": 10.3
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3541158",
+  "gel": "MemoryShape",
+  "profile": "MM Medium Height, Moderate Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 245,
+  "diameter_cm": 11.5,
+  "projection_cm": 4.0,
+  "height_cm": 10.8
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3541208",
+  "gel": "MemoryShape",
+  "profile": "MM Medium Height, Moderate Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 280,
+  "diameter_cm": 12.0,
+  "projection_cm": 4.2,
+  "height_cm": 11.3
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3541258",
+  "gel": "MemoryShape",
+  "profile": "MM Medium Height, Moderate Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 315,
+  "diameter_cm": 12.5,
+  "projection_cm": 4.4,
+  "height_cm": 11.8
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3541308",
+  "gel": "MemoryShape",
+  "profile": "MM Medium Height, Moderate Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 355,
+  "diameter_cm": 13.0,
+  "projection_cm": 4.6,
+  "height_cm": 12.2
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3541358",
+  "gel": "MemoryShape",
+  "profile": "MM Medium Height, Moderate Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 395,
+  "diameter_cm": 13.5,
+  "projection_cm": 4.7,
+  "height_cm": 12.7
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3541408",
+  "gel": "MemoryShape",
+  "profile": "MM Medium Height, Moderate Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 440,
+  "diameter_cm": 14.0,
+  "projection_cm": 4.9,
+  "height_cm": 13.2
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3541458",
+  "gel": "MemoryShape",
+  "profile": "MM Medium Height, Moderate Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 480,
+  "diameter_cm": 14.5,
+  "projection_cm": 5.0,
+  "height_cm": 13.6
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3541508",
+  "gel": "MemoryShape",
+  "profile": "MM Medium Height, Moderate Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 530,
+  "diameter_cm": 15.0,
+  "projection_cm": 5.2,
+  "height_cm": 14.1
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3541608",
+  "gel": "MemoryShape",
+  "profile": "MM Medium Height, Moderate Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 640,
+  "diameter_cm": 16.0,
+  "projection_cm": 5.6,
+  "height_cm": 15.0
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3541708",
+  "gel": "MemoryShape",
+  "profile": "MM Medium Height, Moderate Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 775,
+  "diameter_cm": 17.0,
+  "projection_cm": 5.9,
+  "height_cm": 16.0
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3340909",
+  "gel": "MemoryShape",
+  "profile": "TM+ Tall Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 145,
+  "diameter_cm": 9.0,
+  "projection_cm": 3.8,
+  "height_cm": 9.4
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3340959",
+  "gel": "MemoryShape",
+  "profile": "TM+ Tall Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 175,
+  "diameter_cm": 9.5,
+  "projection_cm": 4.0,
+  "height_cm": 9.9
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341009",
+  "gel": "MemoryShape",
+  "profile": "TM+ Tall Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 205,
+  "diameter_cm": 10.0,
+  "projection_cm": 4.2,
+  "height_cm": 10.4
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341059",
+  "gel": "MemoryShape",
+  "profile": "TM+ Tall Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 235,
+  "diameter_cm": 10.5,
+  "projection_cm": 4.4,
+  "height_cm": 10.9
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341109",
+  "gel": "MemoryShape",
+  "profile": "TM+ Tall Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 270,
+  "diameter_cm": 11.0,
+  "projection_cm": 4.7,
+  "height_cm": 11.5
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341159",
+  "gel": "MemoryShape",
+  "profile": "TM+ Tall Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 305,
+  "diameter_cm": 11.5,
+  "projection_cm": 4.9,
+  "height_cm": 12.0
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341209",
+  "gel": "MemoryShape",
+  "profile": "TM+ Tall Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 350,
+  "diameter_cm": 12.0,
+  "projection_cm": 5.1,
+  "height_cm": 12.5
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341259",
+  "gel": "MemoryShape",
+  "profile": "TM+ Tall Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 395,
+  "diameter_cm": 12.5,
+  "projection_cm": 5.3,
+  "height_cm": 13.0
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341309",
+  "gel": "MemoryShape",
+  "profile": "TM+ Tall Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 445,
+  "diameter_cm": 13.0,
+  "projection_cm": 5.5,
+  "height_cm": 13.5
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341359",
+  "gel": "MemoryShape",
+  "profile": "TM+ Tall Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 495,
+  "diameter_cm": 13.5,
+  "projection_cm": 5.7,
+  "height_cm": 14.1
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341409",
+  "gel": "MemoryShape",
+  "profile": "TM+ Tall Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 555,
+  "diameter_cm": 14.0,
+  "projection_cm": 5.9,
+  "height_cm": 14.6
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341459",
+  "gel": "MemoryShape",
+  "profile": "TM+ Tall Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 615,
+  "diameter_cm": 14.5,
+  "projection_cm": 6.1,
+  "height_cm": 15.1
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341509",
+  "gel": "MemoryShape",
+  "profile": "TM+ Tall Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 680,
+  "diameter_cm": 15.0,
+  "projection_cm": 6.3,
+  "height_cm": 15.6
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3340905",
+  "gel": "MemoryShape",
+  "profile": "MM+ Medium Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 140,
+  "diameter_cm": 9.0,
+  "projection_cm": 3.8,
+  "height_cm": 8.5
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3340955",
+  "gel": "MemoryShape",
+  "profile": "MM+ Medium Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 165,
+  "diameter_cm": 9.5,
+  "projection_cm": 4.0,
+  "height_cm": 8.9
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341005",
+  "gel": "MemoryShape",
+  "profile": "MM+ Medium Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 195,
+  "diameter_cm": 10.0,
+  "projection_cm": 4.2,
+  "height_cm": 9.4
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341055",
+  "gel": "MemoryShape",
+  "profile": "MM+ Medium Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 225,
+  "diameter_cm": 10.5,
+  "projection_cm": 4.4,
+  "height_cm": 9.9
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341105",
+  "gel": "MemoryShape",
+  "profile": "MM+ Medium Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 255,
+  "diameter_cm": 11.0,
+  "projection_cm": 4.7,
+  "height_cm": 10.3
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341155",
+  "gel": "MemoryShape",
+  "profile": "MM+ Medium Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 295,
+  "diameter_cm": 11.5,
+  "projection_cm": 4.9,
+  "height_cm": 10.8
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341205",
+  "gel": "MemoryShape",
+  "profile": "MM+ Medium Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 330,
+  "diameter_cm": 12.0,
+  "projection_cm": 5.1,
+  "height_cm": 11.3
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341255",
+  "gel": "MemoryShape",
+  "profile": "MM+ Medium Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 375,
+  "diameter_cm": 12.5,
+  "projection_cm": 5.3,
+  "height_cm": 11.8
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341305",
+  "gel": "MemoryShape",
+  "profile": "MM+ Medium Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 420,
+  "diameter_cm": 13.0,
+  "projection_cm": 5.5,
+  "height_cm": 12.2
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341355",
+  "gel": "MemoryShape",
+  "profile": "MM+ Medium Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 475,
+  "diameter_cm": 13.5,
+  "projection_cm": 5.7,
+  "height_cm": 12.7
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341405",
+  "gel": "MemoryShape",
+  "profile": "MM+ Medium Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 525,
+  "diameter_cm": 14.0,
+  "projection_cm": 5.9,
+  "height_cm": 13.2
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341455",
+  "gel": "MemoryShape",
+  "profile": "MM+ Medium Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 585,
+  "diameter_cm": 14.5,
+  "projection_cm": 6.1,
+  "height_cm": 13.6
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341505",
+  "gel": "MemoryShape",
+  "profile": "MM+ Medium Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 650,
+  "diameter_cm": 15.0,
+  "projection_cm": 6.3,
+  "height_cm": 14.1
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3340907",
+  "gel": "MemoryShape",
+  "profile": "LM+ Low Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 125,
+  "diameter_cm": 9.0,
+  "projection_cm": 3.8,
+  "height_cm": 8.0
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3340957",
+  "gel": "MemoryShape",
+  "profile": "LM+ Low Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 145,
+  "diameter_cm": 9.5,
+  "projection_cm": 4.0,
+  "height_cm": 8.4
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341007",
+  "gel": "MemoryShape",
+  "profile": "LM+ Low Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 170,
+  "diameter_cm": 10.0,
+  "projection_cm": 4.2,
+  "height_cm": 8.8
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341057",
+  "gel": "MemoryShape",
+  "profile": "LM+ Low Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 195,
+  "diameter_cm": 10.5,
+  "projection_cm": 4.4,
+  "height_cm": 9.3
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341107",
+  "gel": "MemoryShape",
+  "profile": "LM+ Low Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 225,
+  "diameter_cm": 11.0,
+  "projection_cm": 4.7,
+  "height_cm": 9.7
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341157",
+  "gel": "MemoryShape",
+  "profile": "LM+ Low Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 255,
+  "diameter_cm": 11.5,
+  "projection_cm": 4.9,
+  "height_cm": 10.2
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341207",
+  "gel": "MemoryShape",
+  "profile": "LM+ Low Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 290,
+  "diameter_cm": 12.0,
+  "projection_cm": 5.1,
+  "height_cm": 10.6
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341257",
+  "gel": "MemoryShape",
+  "profile": "LM+ Low Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 330,
+  "diameter_cm": 12.5,
+  "projection_cm": 5.3,
+  "height_cm": 11.1
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341307",
+  "gel": "MemoryShape",
+  "profile": "LM+ Low Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 370,
+  "diameter_cm": 13.0,
+  "projection_cm": 5.5,
+  "height_cm": 11.5
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341357",
+  "gel": "MemoryShape",
+  "profile": "LM+ Low Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 415,
+  "diameter_cm": 13.5,
+  "projection_cm": 5.7,
+  "height_cm": 12.0
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341407",
+  "gel": "MemoryShape",
+  "profile": "LM+ Low Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 465,
+  "diameter_cm": 14.0,
+  "projection_cm": 5.9,
+  "height_cm": 12.4
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341457",
+  "gel": "MemoryShape",
+  "profile": "LM+ Low Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 515,
+  "diameter_cm": 14.5,
+  "projection_cm": 6.1,
+  "height_cm": 12.8
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341507",
+  "gel": "MemoryShape",
+  "profile": "LM+ Low Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 570,
+  "diameter_cm": 15.0,
+  "projection_cm": 6.3,
+  "height_cm": 13.3
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341607",
+  "gel": "MemoryShape",
+  "profile": "LM+ Low Height, Moderate Plus Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 690,
+  "diameter_cm": 16.0,
+  "projection_cm": 6.8,
+  "height_cm": 14.2
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3340904",
+  "gel": "MemoryShape",
+  "profile": "TH Tall Height, High Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 180,
+  "diameter_cm": 9.0,
+  "projection_cm": 4.6,
+  "height_cm": 9.4
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3340954",
+  "gel": "MemoryShape",
+  "profile": "TH Tall Height, High Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 215,
+  "diameter_cm": 9.5,
+  "projection_cm": 4.8,
+  "height_cm": 9.9
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341004",
+  "gel": "MemoryShape",
+  "profile": "TH Tall Height, High Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 250,
+  "diameter_cm": 10.0,
+  "projection_cm": 5.1,
+  "height_cm": 10.4
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341054",
+  "gel": "MemoryShape",
+  "profile": "TH Tall Height, High Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 290,
+  "diameter_cm": 10.5,
+  "projection_cm": 5.3,
+  "height_cm": 10.9
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341104",
+  "gel": "MemoryShape",
+  "profile": "TH Tall Height, High Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 330,
+  "diameter_cm": 11.0,
+  "projection_cm": 5.6,
+  "height_cm": 11.5
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341154",
+  "gel": "MemoryShape",
+  "profile": "TH Tall Height, High Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 380,
+  "diameter_cm": 11.5,
+  "projection_cm": 5.8,
+  "height_cm": 12.0
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341204",
+  "gel": "MemoryShape",
+  "profile": "TH Tall Height, High Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 430,
+  "diameter_cm": 12.0,
+  "projection_cm": 6.0,
+  "height_cm": 12.5
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341254",
+  "gel": "MemoryShape",
+  "profile": "TH Tall Height, High Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 485,
+  "diameter_cm": 12.5,
+  "projection_cm": 6.2,
+  "height_cm": 13.0
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341304",
+  "gel": "MemoryShape",
+  "profile": "TH Tall Height, High Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 545,
+  "diameter_cm": 13.0,
+  "projection_cm": 6.5,
+  "height_cm": 13.5
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341354",
+  "gel": "MemoryShape",
+  "profile": "TH Tall Height, High Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 610,
+  "diameter_cm": 13.5,
+  "projection_cm": 6.7,
+  "height_cm": 14.1
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341404",
+  "gel": "MemoryShape",
+  "profile": "TH Tall Height, High Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 680,
+  "diameter_cm": 14.0,
+  "projection_cm": 6.9,
+  "height_cm": 14.6
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341454",
+  "gel": "MemoryShape",
+  "profile": "TH Tall Height, High Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 755,
+  "diameter_cm": 14.5,
+  "projection_cm": 7.1,
+  "height_cm": 15.1
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3340902",
+  "gel": "MemoryShape",
+  "profile": "MH Medium Height, High Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 165,
+  "diameter_cm": 9.0,
+  "projection_cm": 4.6,
+  "height_cm": 8.5
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3340952",
+  "gel": "MemoryShape",
+  "profile": "MH Medium Height, High Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 195,
+  "diameter_cm": 9.5,
+  "projection_cm": 4.8,
+  "height_cm": 8.9
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341002",
+  "gel": "MemoryShape",
+  "profile": "MH Medium Height, High Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 225,
+  "diameter_cm": 10.0,
+  "projection_cm": 5.1,
+  "height_cm": 9.4
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341052",
+  "gel": "MemoryShape",
+  "profile": "MH Medium Height, High Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 260,
+  "diameter_cm": 10.5,
+  "projection_cm": 5.3,
+  "height_cm": 9.9
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341102",
+  "gel": "MemoryShape",
+  "profile": "MH Medium Height, High Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 300,
+  "diameter_cm": 11.0,
+  "projection_cm": 5.6,
+  "height_cm": 10.3
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341152",
+  "gel": "MemoryShape",
+  "profile": "MH Medium Height, High Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 345,
+  "diameter_cm": 11.5,
+  "projection_cm": 5.8,
+  "height_cm": 10.8
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341202",
+  "gel": "MemoryShape",
+  "profile": "MH Medium Height, High Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 390,
+  "diameter_cm": 12.0,
+  "projection_cm": 6.0,
+  "height_cm": 11.3
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341252",
+  "gel": "MemoryShape",
+  "profile": "MH Medium Height, High Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 440,
+  "diameter_cm": 12.5,
+  "projection_cm": 6.2,
+  "height_cm": 11.8
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341302",
+  "gel": "MemoryShape",
+  "profile": "MH Medium Height, High Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 495,
+  "diameter_cm": 13.0,
+  "projection_cm": 6.5,
+  "height_cm": 12.2
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341352",
+  "gel": "MemoryShape",
+  "profile": "MH Medium Height, High Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 555,
+  "diameter_cm": 13.5,
+  "projection_cm": 6.7,
+  "height_cm": 12.7
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341402",
+  "gel": "MemoryShape",
+  "profile": "MH Medium Height, High Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 620,
+  "diameter_cm": 14.0,
+  "projection_cm": 6.9,
+  "height_cm": 13.2
+ },
+ {
+  "manufacturer": "Mentor",
+  "line": "MemoryShape SILTEX",
+  "catalog": "3341452",
+  "gel": "MemoryShape",
+  "profile": "MH Medium Height, High Projection",
+  "shape": "Shaped",
+  "surface": "Textured",
+  "volume_cc": 685,
+  "diameter_cm": 14.5,
+  "projection_cm": 7.1,
+  "height_cm": 13.6
  },
  {
   "manufacturer": "Motiva",
@@ -4714,7 +9487,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 205,
   "diameter_cm": 10.0,
-  "projection_cm": 3.5
+  "projection_cm": 3.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -4726,7 +9500,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 215,
   "diameter_cm": 10.25,
-  "projection_cm": 3.5
+  "projection_cm": 3.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -4738,7 +9513,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 255,
   "diameter_cm": 10.25,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -4750,7 +9526,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 230,
   "diameter_cm": 10.5,
-  "projection_cm": 3.6
+  "projection_cm": 3.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -4762,7 +9539,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 275,
   "diameter_cm": 10.5,
-  "projection_cm": 4.3
+  "projection_cm": 4.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -4774,7 +9552,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 245,
   "diameter_cm": 10.75,
-  "projection_cm": 3.7
+  "projection_cm": 3.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -4786,7 +9565,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 295,
   "diameter_cm": 10.75,
-  "projection_cm": 4.4
+  "projection_cm": 4.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -4798,7 +9578,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 265,
   "diameter_cm": 11.0,
-  "projection_cm": 3.8
+  "projection_cm": 3.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -4810,7 +9591,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 315,
   "diameter_cm": 11.0,
-  "projection_cm": 4.5
+  "projection_cm": 4.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -4822,7 +9604,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 285,
   "diameter_cm": 11.25,
-  "projection_cm": 3.8
+  "projection_cm": 3.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -4834,7 +9617,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 335,
   "diameter_cm": 11.25,
-  "projection_cm": 4.6
+  "projection_cm": 4.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -4846,7 +9630,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 245,
   "diameter_cm": 11.5,
-  "projection_cm": 2.8
+  "projection_cm": 2.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -4858,7 +9643,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 300,
   "diameter_cm": 11.5,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -4870,7 +9656,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 355,
   "diameter_cm": 11.5,
-  "projection_cm": 4.7
+  "projection_cm": 4.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -4882,7 +9669,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 260,
   "diameter_cm": 11.75,
-  "projection_cm": 2.8
+  "projection_cm": 2.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -4894,7 +9682,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 320,
   "diameter_cm": 11.75,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -4906,7 +9695,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 375,
   "diameter_cm": 11.75,
-  "projection_cm": 4.8
+  "projection_cm": 4.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -4918,7 +9708,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 275,
   "diameter_cm": 12.0,
-  "projection_cm": 2.9
+  "projection_cm": 2.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -4930,7 +9721,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 340,
   "diameter_cm": 12.0,
-  "projection_cm": 4.0
+  "projection_cm": 4.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -4942,7 +9734,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 400,
   "diameter_cm": 12.0,
-  "projection_cm": 4.9
+  "projection_cm": 4.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -4954,7 +9747,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 290,
   "diameter_cm": 12.25,
-  "projection_cm": 2.9
+  "projection_cm": 2.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -4966,7 +9760,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 360,
   "diameter_cm": 12.25,
-  "projection_cm": 4.0
+  "projection_cm": 4.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -4978,7 +9773,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 425,
   "diameter_cm": 12.25,
-  "projection_cm": 5.0
+  "projection_cm": 5.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -4990,7 +9786,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 310,
   "diameter_cm": 12.5,
-  "projection_cm": 3.0
+  "projection_cm": 3.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5002,7 +9799,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 380,
   "diameter_cm": 12.5,
-  "projection_cm": 4.1
+  "projection_cm": 4.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5014,7 +9812,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 450,
   "diameter_cm": 12.5,
-  "projection_cm": 5.1
+  "projection_cm": 5.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5026,7 +9825,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 360,
   "diameter_cm": 13.0,
-  "projection_cm": 3.1
+  "projection_cm": 3.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5038,7 +9838,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 425,
   "diameter_cm": 13.0,
-  "projection_cm": 4.3
+  "projection_cm": 4.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5050,7 +9851,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 500,
   "diameter_cm": 13.0,
-  "projection_cm": 5.3
+  "projection_cm": 5.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5062,7 +9864,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 400,
   "diameter_cm": 13.5,
-  "projection_cm": 3.2
+  "projection_cm": 3.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5074,7 +9877,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 475,
   "diameter_cm": 13.5,
-  "projection_cm": 4.4
+  "projection_cm": 4.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5086,7 +9890,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 550,
   "diameter_cm": 13.5,
-  "projection_cm": 5.5
+  "projection_cm": 5.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5098,7 +9903,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 525,
   "diameter_cm": 14.0,
-  "projection_cm": 4.5
+  "projection_cm": 4.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5110,7 +9916,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 625,
   "diameter_cm": 14.0,
-  "projection_cm": 5.7
+  "projection_cm": 5.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5122,7 +9929,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 155,
   "diameter_cm": 9.0,
-  "projection_cm": 3.3
+  "projection_cm": 3.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5134,7 +9942,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 180,
   "diameter_cm": 9.5,
-  "projection_cm": 3.4
+  "projection_cm": 3.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5146,7 +9955,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 150,
   "diameter_cm": 9.75,
-  "projection_cm": 2.4
+  "projection_cm": 2.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5158,7 +9968,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 190,
   "diameter_cm": 9.75,
-  "projection_cm": 3.4
+  "projection_cm": 3.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5170,7 +9981,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 160,
   "diameter_cm": 10.0,
-  "projection_cm": 2.5
+  "projection_cm": 2.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5182,7 +9994,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 205,
   "diameter_cm": 10.0,
-  "projection_cm": 3.5
+  "projection_cm": 3.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5194,7 +10007,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 170,
   "diameter_cm": 10.25,
-  "projection_cm": 2.5
+  "projection_cm": 2.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5206,7 +10020,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 215,
   "diameter_cm": 10.25,
-  "projection_cm": 3.5
+  "projection_cm": 3.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5218,7 +10033,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 255,
   "diameter_cm": 10.25,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5230,7 +10046,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 185,
   "diameter_cm": 10.5,
-  "projection_cm": 2.6
+  "projection_cm": 2.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5242,7 +10059,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 230,
   "diameter_cm": 10.5,
-  "projection_cm": 3.6
+  "projection_cm": 3.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5254,7 +10072,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 275,
   "diameter_cm": 10.5,
-  "projection_cm": 4.3
+  "projection_cm": 4.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5266,7 +10085,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 205,
   "diameter_cm": 10.75,
-  "projection_cm": 2.6
+  "projection_cm": 2.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5278,7 +10098,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 245,
   "diameter_cm": 10.75,
-  "projection_cm": 3.7
+  "projection_cm": 3.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5290,7 +10111,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 295,
   "diameter_cm": 10.75,
-  "projection_cm": 4.4
+  "projection_cm": 4.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5302,7 +10124,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 220,
   "diameter_cm": 11.0,
-  "projection_cm": 2.7
+  "projection_cm": 2.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5314,7 +10137,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 265,
   "diameter_cm": 11.0,
-  "projection_cm": 3.8
+  "projection_cm": 3.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5326,7 +10150,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 315,
   "diameter_cm": 11.0,
-  "projection_cm": 4.5
+  "projection_cm": 4.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5338,7 +10163,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 230,
   "diameter_cm": 11.25,
-  "projection_cm": 2.7
+  "projection_cm": 2.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5350,7 +10176,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 285,
   "diameter_cm": 11.25,
-  "projection_cm": 3.8
+  "projection_cm": 3.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5362,7 +10189,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 335,
   "diameter_cm": 11.25,
-  "projection_cm": 4.6
+  "projection_cm": 4.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5374,7 +10202,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 245,
   "diameter_cm": 11.5,
-  "projection_cm": 2.8
+  "projection_cm": 2.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5386,7 +10215,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 300,
   "diameter_cm": 11.5,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5398,7 +10228,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 355,
   "diameter_cm": 11.5,
-  "projection_cm": 4.7
+  "projection_cm": 4.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5410,7 +10241,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 260,
   "diameter_cm": 11.75,
-  "projection_cm": 2.8
+  "projection_cm": 2.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5422,7 +10254,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 320,
   "diameter_cm": 11.75,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5434,7 +10267,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 375,
   "diameter_cm": 11.75,
-  "projection_cm": 4.8
+  "projection_cm": 4.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5446,7 +10280,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 275,
   "diameter_cm": 12.0,
-  "projection_cm": 2.9
+  "projection_cm": 2.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5458,7 +10293,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 340,
   "diameter_cm": 12.0,
-  "projection_cm": 4.0
+  "projection_cm": 4.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5470,7 +10306,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 400,
   "diameter_cm": 12.0,
-  "projection_cm": 4.9
+  "projection_cm": 4.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5482,7 +10319,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 290,
   "diameter_cm": 12.25,
-  "projection_cm": 2.9
+  "projection_cm": 2.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5494,7 +10332,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 360,
   "diameter_cm": 12.25,
-  "projection_cm": 4.0
+  "projection_cm": 4.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5506,7 +10345,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 425,
   "diameter_cm": 12.25,
-  "projection_cm": 5.0
+  "projection_cm": 5.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5518,7 +10358,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 310,
   "diameter_cm": 12.5,
-  "projection_cm": 3.0
+  "projection_cm": 3.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5530,7 +10371,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 380,
   "diameter_cm": 12.5,
-  "projection_cm": 4.1
+  "projection_cm": 4.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5542,7 +10384,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 450,
   "diameter_cm": 12.5,
-  "projection_cm": 5.1
+  "projection_cm": 5.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5554,7 +10397,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 360,
   "diameter_cm": 13.0,
-  "projection_cm": 3.1
+  "projection_cm": 3.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5566,7 +10410,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 425,
   "diameter_cm": 13.0,
-  "projection_cm": 4.3
+  "projection_cm": 4.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5578,7 +10423,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 500,
   "diameter_cm": 13.0,
-  "projection_cm": 5.3
+  "projection_cm": 5.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5590,7 +10436,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 400,
   "diameter_cm": 13.5,
-  "projection_cm": 3.2
+  "projection_cm": 3.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5602,7 +10449,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 475,
   "diameter_cm": 13.5,
-  "projection_cm": 4.4
+  "projection_cm": 4.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5614,7 +10462,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 550,
   "diameter_cm": 13.5,
-  "projection_cm": 5.5
+  "projection_cm": 5.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5626,7 +10475,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 430,
   "diameter_cm": 14.0,
-  "projection_cm": 3.3
+  "projection_cm": 3.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5638,7 +10488,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 525,
   "diameter_cm": 14.0,
-  "projection_cm": 4.5
+  "projection_cm": 4.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5650,7 +10501,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 625,
   "diameter_cm": 14.0,
-  "projection_cm": 5.7
+  "projection_cm": 5.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5662,7 +10514,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 475,
   "diameter_cm": 14.5,
-  "projection_cm": 3.4
+  "projection_cm": 3.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Motiva",
@@ -5674,7 +10527,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 575,
   "diameter_cm": 14.5,
-  "projection_cm": 4.6
+  "projection_cm": 4.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -5686,7 +10540,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 160,
   "diameter_cm": 10.5,
-  "projection_cm": 2.5
+  "projection_cm": 2.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -5698,7 +10553,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 160,
   "diameter_cm": 10.5,
-  "projection_cm": 2.5
+  "projection_cm": 2.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -5710,7 +10566,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 80,
   "diameter_cm": 8.0,
-  "projection_cm": 2.1
+  "projection_cm": 2.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -5722,7 +10579,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 80,
   "diameter_cm": 8.0,
-  "projection_cm": 2.1
+  "projection_cm": 2.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -5734,7 +10592,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 190,
   "diameter_cm": 11.4,
-  "projection_cm": 2.6
+  "projection_cm": 2.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -5746,7 +10605,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 190,
   "diameter_cm": 11.4,
-  "projection_cm": 2.6
+  "projection_cm": 2.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -5758,7 +10618,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 110,
   "diameter_cm": 9.0,
-  "projection_cm": 2.4
+  "projection_cm": 2.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -5770,7 +10631,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 110,
   "diameter_cm": 9.0,
-  "projection_cm": 2.4
+  "projection_cm": 2.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -5782,7 +10644,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 220,
   "diameter_cm": 12.1,
-  "projection_cm": 2.7
+  "projection_cm": 2.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -5794,7 +10657,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 220,
   "diameter_cm": 12.1,
-  "projection_cm": 2.7
+  "projection_cm": 2.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -5806,7 +10670,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 140,
   "diameter_cm": 9.75,
-  "projection_cm": 2.6
+  "projection_cm": 2.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -5818,7 +10683,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 140,
   "diameter_cm": 9.75,
-  "projection_cm": 2.6
+  "projection_cm": 2.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -5830,7 +10696,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 250,
   "diameter_cm": 12.3,
-  "projection_cm": 2.8
+  "projection_cm": 2.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -5842,7 +10709,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 250,
   "diameter_cm": 12.3,
-  "projection_cm": 2.8
+  "projection_cm": 2.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -5854,7 +10722,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 155,
   "diameter_cm": 10.0,
-  "projection_cm": 2.7
+  "projection_cm": 2.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -5866,7 +10735,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 155,
   "diameter_cm": 10.0,
-  "projection_cm": 2.7
+  "projection_cm": 2.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -5878,7 +10748,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 280,
   "diameter_cm": 13.0,
-  "projection_cm": 2.9
+  "projection_cm": 2.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -5890,7 +10761,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 280,
   "diameter_cm": 13.0,
-  "projection_cm": 2.9
+  "projection_cm": 2.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -5902,7 +10774,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 175,
   "diameter_cm": 10.5,
-  "projection_cm": 2.8
+  "projection_cm": 2.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -5914,7 +10787,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 175,
   "diameter_cm": 10.5,
-  "projection_cm": 2.8
+  "projection_cm": 2.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -5926,7 +10800,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 310,
   "diameter_cm": 13.4,
-  "projection_cm": 3.0
+  "projection_cm": 3.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -5938,7 +10813,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 310,
   "diameter_cm": 13.4,
-  "projection_cm": 3.0
+  "projection_cm": 3.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -5950,7 +10826,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 185,
   "diameter_cm": 10.75,
-  "projection_cm": 2.9
+  "projection_cm": 2.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -5962,7 +10839,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 185,
   "diameter_cm": 10.75,
-  "projection_cm": 2.9
+  "projection_cm": 2.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -5974,7 +10852,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 340,
   "diameter_cm": 13.7,
-  "projection_cm": 3.1
+  "projection_cm": 3.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -5986,7 +10865,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 340,
   "diameter_cm": 13.7,
-  "projection_cm": 3.1
+  "projection_cm": 3.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -5998,7 +10878,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 195,
   "diameter_cm": 11.0,
-  "projection_cm": 3.0
+  "projection_cm": 3.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6010,7 +10891,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 195,
   "diameter_cm": 11.0,
-  "projection_cm": 3.0
+  "projection_cm": 3.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6022,7 +10904,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 370,
   "diameter_cm": 14.5,
-  "projection_cm": 3.1
+  "projection_cm": 3.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6034,7 +10917,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 370,
   "diameter_cm": 14.5,
-  "projection_cm": 3.1
+  "projection_cm": 3.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6046,7 +10930,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 210,
   "diameter_cm": 11.25,
-  "projection_cm": 3.0
+  "projection_cm": 3.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6058,7 +10943,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 210,
   "diameter_cm": 11.25,
-  "projection_cm": 3.0
+  "projection_cm": 3.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6070,7 +10956,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 400,
   "diameter_cm": 14.8,
-  "projection_cm": 3.2
+  "projection_cm": 3.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6082,7 +10969,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 400,
   "diameter_cm": 14.8,
-  "projection_cm": 3.2
+  "projection_cm": 3.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6094,7 +10982,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 225,
   "diameter_cm": 11.5,
-  "projection_cm": 3.1
+  "projection_cm": 3.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6106,7 +10995,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 225,
   "diameter_cm": 11.5,
-  "projection_cm": 3.1
+  "projection_cm": 3.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6118,7 +11008,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 425,
   "diameter_cm": 15.1,
-  "projection_cm": 3.2
+  "projection_cm": 3.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6130,7 +11021,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 235,
   "diameter_cm": 11.75,
-  "projection_cm": 3.2
+  "projection_cm": 3.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6142,7 +11034,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 235,
   "diameter_cm": 11.75,
-  "projection_cm": 3.2
+  "projection_cm": 3.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6154,7 +11047,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 450,
   "diameter_cm": 15.4,
-  "projection_cm": 3.2
+  "projection_cm": 3.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6166,7 +11060,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 450,
   "diameter_cm": 15.4,
-  "projection_cm": 3.2
+  "projection_cm": 3.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6178,7 +11073,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 255,
   "diameter_cm": 12.0,
-  "projection_cm": 3.3
+  "projection_cm": 3.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6190,7 +11086,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 255,
   "diameter_cm": 12.0,
-  "projection_cm": 3.3
+  "projection_cm": 3.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6202,7 +11099,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 475,
   "diameter_cm": 15.6,
-  "projection_cm": 3.3
+  "projection_cm": 3.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6214,7 +11112,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 280,
   "diameter_cm": 12.5,
-  "projection_cm": 3.4
+  "projection_cm": 3.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6226,7 +11125,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 280,
   "diameter_cm": 12.5,
-  "projection_cm": 3.4
+  "projection_cm": 3.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6238,7 +11138,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 500,
   "diameter_cm": 15.9,
-  "projection_cm": 3.3
+  "projection_cm": 3.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6250,7 +11151,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 500,
   "diameter_cm": 15.9,
-  "projection_cm": 3.3
+  "projection_cm": 3.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6262,7 +11164,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 300,
   "diameter_cm": 12.75,
-  "projection_cm": 3.5
+  "projection_cm": 3.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6274,7 +11177,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 300,
   "diameter_cm": 12.75,
-  "projection_cm": 3.5
+  "projection_cm": 3.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6286,7 +11190,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 525,
   "diameter_cm": 16.2,
-  "projection_cm": 3.4
+  "projection_cm": 3.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6298,7 +11203,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 320,
   "diameter_cm": 13.0,
-  "projection_cm": 3.6
+  "projection_cm": 3.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6310,7 +11216,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 320,
   "diameter_cm": 13.0,
-  "projection_cm": 3.6
+  "projection_cm": 3.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6322,7 +11229,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 550,
   "diameter_cm": 16.5,
-  "projection_cm": 3.5
+  "projection_cm": 3.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6334,7 +11242,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 550,
   "diameter_cm": 16.5,
-  "projection_cm": 3.5
+  "projection_cm": 3.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6346,7 +11255,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 335,
   "diameter_cm": 13.25,
-  "projection_cm": 3.6
+  "projection_cm": 3.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6358,7 +11268,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 335,
   "diameter_cm": 13.25,
-  "projection_cm": 3.6
+  "projection_cm": 3.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6370,7 +11281,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 575,
   "diameter_cm": 16.7,
-  "projection_cm": 3.6
+  "projection_cm": 3.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6382,7 +11294,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 355,
   "diameter_cm": 13.5,
-  "projection_cm": 3.7
+  "projection_cm": 3.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6394,7 +11307,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 355,
   "diameter_cm": 13.5,
-  "projection_cm": 3.7
+  "projection_cm": 3.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6406,7 +11320,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 600,
   "diameter_cm": 17.0,
-  "projection_cm": 3.7
+  "projection_cm": 3.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6418,7 +11333,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 600,
   "diameter_cm": 17.0,
-  "projection_cm": 3.7
+  "projection_cm": 3.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6430,7 +11346,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 390,
   "diameter_cm": 14.0,
-  "projection_cm": 3.8
+  "projection_cm": 3.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6442,7 +11359,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 390,
   "diameter_cm": 14.0,
-  "projection_cm": 3.8
+  "projection_cm": 3.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6454,7 +11372,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 650,
   "diameter_cm": 17.5,
-  "projection_cm": 3.8
+  "projection_cm": 3.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6466,7 +11385,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 650,
   "diameter_cm": 17.5,
-  "projection_cm": 3.8
+  "projection_cm": 3.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6478,7 +11398,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 440,
   "diameter_cm": 14.5,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6490,7 +11411,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 440,
   "diameter_cm": 14.5,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6502,7 +11424,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 700,
   "diameter_cm": 17.9,
-  "projection_cm": 3.8
+  "projection_cm": 3.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6514,7 +11437,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 700,
   "diameter_cm": 17.9,
-  "projection_cm": 3.8
+  "projection_cm": 3.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6526,7 +11450,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 190,
   "diameter_cm": 10.3,
-  "projection_cm": 3.2
+  "projection_cm": 3.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6538,7 +11463,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 190,
   "diameter_cm": 10.3,
-  "projection_cm": 3.2
+  "projection_cm": 3.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6550,7 +11476,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 210,
   "diameter_cm": 10.7,
-  "projection_cm": 3.2
+  "projection_cm": 3.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6562,7 +11489,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 210,
   "diameter_cm": 10.7,
-  "projection_cm": 3.2
+  "projection_cm": 3.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6574,7 +11502,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 230,
   "diameter_cm": 11.1,
-  "projection_cm": 3.2
+  "projection_cm": 3.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6586,7 +11515,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 230,
   "diameter_cm": 11.1,
-  "projection_cm": 3.2
+  "projection_cm": 3.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6598,7 +11528,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 250,
   "diameter_cm": 11.4,
-  "projection_cm": 3.3
+  "projection_cm": 3.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6610,7 +11541,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 250,
   "diameter_cm": 11.4,
-  "projection_cm": 3.3
+  "projection_cm": 3.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6622,7 +11554,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 270,
   "diameter_cm": 11.8,
-  "projection_cm": 3.4
+  "projection_cm": 3.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6634,7 +11567,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 270,
   "diameter_cm": 11.8,
-  "projection_cm": 3.4
+  "projection_cm": 3.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6646,7 +11580,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 285,
   "diameter_cm": 11.9,
-  "projection_cm": 3.5
+  "projection_cm": 3.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6658,7 +11593,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 285,
   "diameter_cm": 11.9,
-  "projection_cm": 3.5
+  "projection_cm": 3.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6670,7 +11606,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 300,
   "diameter_cm": 12.0,
-  "projection_cm": 3.6
+  "projection_cm": 3.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6682,7 +11619,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 300,
   "diameter_cm": 12.0,
-  "projection_cm": 3.6
+  "projection_cm": 3.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6694,7 +11632,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 320,
   "diameter_cm": 12.3,
-  "projection_cm": 3.7
+  "projection_cm": 3.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6706,7 +11645,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 320,
   "diameter_cm": 12.3,
-  "projection_cm": 3.7
+  "projection_cm": 3.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6718,7 +11658,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 335,
   "diameter_cm": 12.4,
-  "projection_cm": 3.8
+  "projection_cm": 3.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6730,7 +11671,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 335,
   "diameter_cm": 12.4,
-  "projection_cm": 3.8
+  "projection_cm": 3.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6742,7 +11684,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 350,
   "diameter_cm": 12.5,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6754,7 +11697,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 350,
   "diameter_cm": 12.5,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6766,7 +11710,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 365,
   "diameter_cm": 12.7,
-  "projection_cm": 4.0
+  "projection_cm": 4.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6778,7 +11723,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 365,
   "diameter_cm": 12.7,
-  "projection_cm": 4.0
+  "projection_cm": 4.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6790,7 +11736,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 380,
   "diameter_cm": 12.8,
-  "projection_cm": 4.1
+  "projection_cm": 4.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6802,7 +11749,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 380,
   "diameter_cm": 12.8,
-  "projection_cm": 4.1
+  "projection_cm": 4.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6814,7 +11762,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 395,
   "diameter_cm": 12.9,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6826,7 +11775,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 395,
   "diameter_cm": 12.9,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6838,7 +11788,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 410,
   "diameter_cm": 13.0,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6850,7 +11801,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 410,
   "diameter_cm": 13.0,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6862,7 +11814,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 425,
   "diameter_cm": 13.2,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6874,7 +11827,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 425,
   "diameter_cm": 13.2,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6886,7 +11840,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 440,
   "diameter_cm": 13.4,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6898,7 +11853,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 440,
   "diameter_cm": 13.4,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6910,7 +11866,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 470,
   "diameter_cm": 13.7,
-  "projection_cm": 4.3
+  "projection_cm": 4.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6922,7 +11879,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 470,
   "diameter_cm": 13.7,
-  "projection_cm": 4.3
+  "projection_cm": 4.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6934,7 +11892,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 510,
   "diameter_cm": 14.0,
-  "projection_cm": 4.3
+  "projection_cm": 4.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6946,7 +11905,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 510,
   "diameter_cm": 14.0,
-  "projection_cm": 4.3
+  "projection_cm": 4.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6958,7 +11918,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 550,
   "diameter_cm": 14.8,
-  "projection_cm": 4.3
+  "projection_cm": 4.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6970,7 +11931,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 550,
   "diameter_cm": 14.8,
-  "projection_cm": 4.3
+  "projection_cm": 4.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6982,7 +11944,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 600,
   "diameter_cm": 15.4,
-  "projection_cm": 4.4
+  "projection_cm": 4.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -6994,7 +11957,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 600,
   "diameter_cm": 15.4,
-  "projection_cm": 4.4
+  "projection_cm": 4.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7006,7 +11970,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 650,
   "diameter_cm": 15.8,
-  "projection_cm": 4.5
+  "projection_cm": 4.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7018,7 +11983,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 650,
   "diameter_cm": 15.8,
-  "projection_cm": 4.5
+  "projection_cm": 4.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7030,7 +11996,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 700,
   "diameter_cm": 16.1,
-  "projection_cm": 4.7
+  "projection_cm": 4.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7042,7 +12009,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 700,
   "diameter_cm": 16.1,
-  "projection_cm": 4.7
+  "projection_cm": 4.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7054,7 +12022,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 175,
   "diameter_cm": 9.3,
-  "projection_cm": 3.7
+  "projection_cm": 3.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7066,7 +12035,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 175,
   "diameter_cm": 9.3,
-  "projection_cm": 3.7
+  "projection_cm": 3.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7078,7 +12048,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 175,
   "diameter_cm": 9.3,
-  "projection_cm": 3.7
+  "projection_cm": 3.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7090,7 +12061,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 175,
   "diameter_cm": 9.3,
-  "projection_cm": 3.7
+  "projection_cm": 3.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7102,7 +12074,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 195,
   "diameter_cm": 9.7,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7114,7 +12087,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 195,
   "diameter_cm": 9.7,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7126,7 +12100,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 195,
   "diameter_cm": 9.7,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7138,7 +12113,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 195,
   "diameter_cm": 9.7,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7150,7 +12126,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 215,
   "diameter_cm": 10.0,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7162,7 +12139,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 215,
   "diameter_cm": 10.0,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7174,7 +12152,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 215,
   "diameter_cm": 10.0,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7186,7 +12165,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 215,
   "diameter_cm": 10.0,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7198,7 +12178,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 235,
   "diameter_cm": 10.5,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7210,7 +12191,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 235,
   "diameter_cm": 10.5,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7222,7 +12204,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 235,
   "diameter_cm": 10.5,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7234,7 +12217,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 235,
   "diameter_cm": 10.5,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7246,7 +12230,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 255,
   "diameter_cm": 11.0,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7258,7 +12243,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 255,
   "diameter_cm": 11.0,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7270,7 +12256,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 255,
   "diameter_cm": 11.0,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7282,7 +12269,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 255,
   "diameter_cm": 11.0,
-  "projection_cm": 3.9
+  "projection_cm": 3.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7294,7 +12282,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 285,
   "diameter_cm": 11.4,
-  "projection_cm": 4.0
+  "projection_cm": 4.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7306,7 +12295,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 285,
   "diameter_cm": 11.4,
-  "projection_cm": 4.0
+  "projection_cm": 4.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7318,7 +12308,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 285,
   "diameter_cm": 11.4,
-  "projection_cm": 4.0
+  "projection_cm": 4.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7330,7 +12321,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 285,
   "diameter_cm": 11.4,
-  "projection_cm": 4.0
+  "projection_cm": 4.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7342,7 +12334,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 305,
   "diameter_cm": 11.7,
-  "projection_cm": 4.0
+  "projection_cm": 4.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7354,7 +12347,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 305,
   "diameter_cm": 11.7,
-  "projection_cm": 4.0
+  "projection_cm": 4.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7366,7 +12360,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 305,
   "diameter_cm": 11.7,
-  "projection_cm": 4.0
+  "projection_cm": 4.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7378,7 +12373,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 305,
   "diameter_cm": 11.7,
-  "projection_cm": 4.0
+  "projection_cm": 4.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7390,7 +12386,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 325,
   "diameter_cm": 11.8,
-  "projection_cm": 4.4
+  "projection_cm": 4.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7402,7 +12399,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 325,
   "diameter_cm": 11.8,
-  "projection_cm": 4.4
+  "projection_cm": 4.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7414,7 +12412,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 325,
   "diameter_cm": 11.8,
-  "projection_cm": 4.4
+  "projection_cm": 4.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7426,7 +12425,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 325,
   "diameter_cm": 11.8,
-  "projection_cm": 4.4
+  "projection_cm": 4.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7438,7 +12438,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 355,
   "diameter_cm": 12.1,
-  "projection_cm": 4.4
+  "projection_cm": 4.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7450,7 +12451,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 355,
   "diameter_cm": 12.1,
-  "projection_cm": 4.4
+  "projection_cm": 4.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7462,7 +12464,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 355,
   "diameter_cm": 12.1,
-  "projection_cm": 4.4
+  "projection_cm": 4.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7474,7 +12477,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 355,
   "diameter_cm": 12.1,
-  "projection_cm": 4.4
+  "projection_cm": 4.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7486,7 +12490,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 385,
   "diameter_cm": 12.5,
-  "projection_cm": 4.5
+  "projection_cm": 4.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7498,7 +12503,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 385,
   "diameter_cm": 12.5,
-  "projection_cm": 4.5
+  "projection_cm": 4.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7510,7 +12516,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 385,
   "diameter_cm": 12.5,
-  "projection_cm": 4.5
+  "projection_cm": 4.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7522,7 +12529,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 385,
   "diameter_cm": 12.5,
-  "projection_cm": 4.5
+  "projection_cm": 4.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7534,7 +12542,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 415,
   "diameter_cm": 12.9,
-  "projection_cm": 4.6
+  "projection_cm": 4.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7546,7 +12555,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 415,
   "diameter_cm": 12.9,
-  "projection_cm": 4.6
+  "projection_cm": 4.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7558,7 +12568,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 415,
   "diameter_cm": 12.9,
-  "projection_cm": 4.6
+  "projection_cm": 4.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7570,7 +12581,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 415,
   "diameter_cm": 12.9,
-  "projection_cm": 4.6
+  "projection_cm": 4.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7582,7 +12594,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 435,
   "diameter_cm": 13.2,
-  "projection_cm": 4.6
+  "projection_cm": 4.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7594,7 +12607,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 435,
   "diameter_cm": 13.2,
-  "projection_cm": 4.6
+  "projection_cm": 4.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7606,7 +12620,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 435,
   "diameter_cm": 13.2,
-  "projection_cm": 4.6
+  "projection_cm": 4.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7618,7 +12633,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 435,
   "diameter_cm": 13.2,
-  "projection_cm": 4.6
+  "projection_cm": 4.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7630,7 +12646,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 455,
   "diameter_cm": 13.3,
-  "projection_cm": 4.6
+  "projection_cm": 4.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7642,7 +12659,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 455,
   "diameter_cm": 13.3,
-  "projection_cm": 4.6
+  "projection_cm": 4.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7654,7 +12672,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 455,
   "diameter_cm": 13.3,
-  "projection_cm": 4.6
+  "projection_cm": 4.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7666,7 +12685,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 455,
   "diameter_cm": 13.3,
-  "projection_cm": 4.6
+  "projection_cm": 4.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7678,7 +12698,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 485,
   "diameter_cm": 13.6,
-  "projection_cm": 4.8
+  "projection_cm": 4.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7690,7 +12711,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 485,
   "diameter_cm": 13.6,
-  "projection_cm": 4.8
+  "projection_cm": 4.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7702,7 +12724,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 485,
   "diameter_cm": 13.6,
-  "projection_cm": 4.8
+  "projection_cm": 4.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7714,7 +12737,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 485,
   "diameter_cm": 13.6,
-  "projection_cm": 4.8
+  "projection_cm": 4.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7726,7 +12750,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 505,
   "diameter_cm": 13.7,
-  "projection_cm": 4.9
+  "projection_cm": 4.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7738,7 +12763,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 505,
   "diameter_cm": 13.7,
-  "projection_cm": 4.9
+  "projection_cm": 4.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7750,7 +12776,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 505,
   "diameter_cm": 13.7,
-  "projection_cm": 4.9
+  "projection_cm": 4.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7762,7 +12789,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 505,
   "diameter_cm": 13.7,
-  "projection_cm": 4.9
+  "projection_cm": 4.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7774,7 +12802,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 525,
   "diameter_cm": 13.8,
-  "projection_cm": 5.0
+  "projection_cm": 5.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7786,7 +12815,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 525,
   "diameter_cm": 13.8,
-  "projection_cm": 5.0
+  "projection_cm": 5.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7798,7 +12828,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 525,
   "diameter_cm": 13.8,
-  "projection_cm": 5.0
+  "projection_cm": 5.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7810,7 +12841,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 525,
   "diameter_cm": 13.8,
-  "projection_cm": 5.0
+  "projection_cm": 5.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7822,7 +12854,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 540,
   "diameter_cm": 13.9,
-  "projection_cm": 5.1
+  "projection_cm": 5.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7834,7 +12867,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 540,
   "diameter_cm": 13.9,
-  "projection_cm": 5.1
+  "projection_cm": 5.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7846,7 +12880,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 540,
   "diameter_cm": 13.9,
-  "projection_cm": 5.1
+  "projection_cm": 5.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7858,7 +12893,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 540,
   "diameter_cm": 13.9,
-  "projection_cm": 5.1
+  "projection_cm": 5.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7870,7 +12906,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 575,
   "diameter_cm": 14.1,
-  "projection_cm": 5.2
+  "projection_cm": 5.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7882,7 +12919,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 575,
   "diameter_cm": 14.1,
-  "projection_cm": 5.2
+  "projection_cm": 5.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7894,7 +12932,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 575,
   "diameter_cm": 14.1,
-  "projection_cm": 5.2
+  "projection_cm": 5.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7906,7 +12945,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 575,
   "diameter_cm": 14.1,
-  "projection_cm": 5.2
+  "projection_cm": 5.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7918,7 +12958,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 590,
   "diameter_cm": 14.3,
-  "projection_cm": 5.3
+  "projection_cm": 5.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7930,7 +12971,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 590,
   "diameter_cm": 14.3,
-  "projection_cm": 5.3
+  "projection_cm": 5.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7942,7 +12984,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 590,
   "diameter_cm": 14.3,
-  "projection_cm": 5.3
+  "projection_cm": 5.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7954,7 +12997,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 590,
   "diameter_cm": 14.3,
-  "projection_cm": 5.3
+  "projection_cm": 5.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7966,7 +13010,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 625,
   "diameter_cm": 14.6,
-  "projection_cm": 5.3
+  "projection_cm": 5.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7978,7 +13023,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 625,
   "diameter_cm": 14.6,
-  "projection_cm": 5.3
+  "projection_cm": 5.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -7990,7 +13036,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 625,
   "diameter_cm": 14.6,
-  "projection_cm": 5.3
+  "projection_cm": 5.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8002,7 +13049,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 625,
   "diameter_cm": 14.6,
-  "projection_cm": 5.3
+  "projection_cm": 5.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8014,7 +13062,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 650,
   "diameter_cm": 14.8,
-  "projection_cm": 5.4
+  "projection_cm": 5.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8026,7 +13075,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 650,
   "diameter_cm": 14.8,
-  "projection_cm": 5.4
+  "projection_cm": 5.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8038,7 +13088,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 650,
   "diameter_cm": 14.8,
-  "projection_cm": 5.4
+  "projection_cm": 5.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8050,7 +13101,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 650,
   "diameter_cm": 14.8,
-  "projection_cm": 5.4
+  "projection_cm": 5.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8062,7 +13114,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 695,
   "diameter_cm": 15.1,
-  "projection_cm": 5.5
+  "projection_cm": 5.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8074,7 +13127,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 695,
   "diameter_cm": 15.1,
-  "projection_cm": 5.5
+  "projection_cm": 5.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8086,7 +13140,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 695,
   "diameter_cm": 15.1,
-  "projection_cm": 5.5
+  "projection_cm": 5.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8098,7 +13153,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 695,
   "diameter_cm": 15.1,
-  "projection_cm": 5.5
+  "projection_cm": 5.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8110,7 +13166,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 190,
   "diameter_cm": 9.6,
-  "projection_cm": 4.0
+  "projection_cm": 4.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8122,7 +13179,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 190,
   "diameter_cm": 9.6,
-  "projection_cm": 4.0
+  "projection_cm": 4.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8134,7 +13192,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 190,
   "diameter_cm": 9.6,
-  "projection_cm": 4.0
+  "projection_cm": 4.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8146,7 +13205,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 190,
   "diameter_cm": 9.6,
-  "projection_cm": 4.0
+  "projection_cm": 4.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8158,7 +13218,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 205,
   "diameter_cm": 9.9,
-  "projection_cm": 4.1
+  "projection_cm": 4.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8170,7 +13231,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 205,
   "diameter_cm": 9.9,
-  "projection_cm": 4.1
+  "projection_cm": 4.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8182,7 +13244,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 205,
   "diameter_cm": 9.9,
-  "projection_cm": 4.1
+  "projection_cm": 4.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8194,7 +13257,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 205,
   "diameter_cm": 9.9,
-  "projection_cm": 4.1
+  "projection_cm": 4.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8206,7 +13270,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 225,
   "diameter_cm": 10.2,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8218,7 +13283,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 225,
   "diameter_cm": 10.2,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8230,7 +13296,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 225,
   "diameter_cm": 10.2,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8242,7 +13309,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 225,
   "diameter_cm": 10.2,
-  "projection_cm": 4.2
+  "projection_cm": 4.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8254,7 +13322,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 240,
   "diameter_cm": 10.5,
-  "projection_cm": 4.3
+  "projection_cm": 4.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8266,7 +13335,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 240,
   "diameter_cm": 10.5,
-  "projection_cm": 4.3
+  "projection_cm": 4.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8278,7 +13348,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 240,
   "diameter_cm": 10.5,
-  "projection_cm": 4.3
+  "projection_cm": 4.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8290,7 +13361,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 240,
   "diameter_cm": 10.5,
-  "projection_cm": 4.3
+  "projection_cm": 4.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8302,7 +13374,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 255,
   "diameter_cm": 10.8,
-  "projection_cm": 4.4
+  "projection_cm": 4.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8314,7 +13387,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 255,
   "diameter_cm": 10.8,
-  "projection_cm": 4.4
+  "projection_cm": 4.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8326,7 +13400,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 255,
   "diameter_cm": 10.8,
-  "projection_cm": 4.4
+  "projection_cm": 4.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8338,7 +13413,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 255,
   "diameter_cm": 10.8,
-  "projection_cm": 4.4
+  "projection_cm": 4.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8350,7 +13426,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 280,
   "diameter_cm": 11.1,
-  "projection_cm": 4.5
+  "projection_cm": 4.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8362,7 +13439,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 280,
   "diameter_cm": 11.1,
-  "projection_cm": 4.5
+  "projection_cm": 4.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8374,7 +13452,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 280,
   "diameter_cm": 11.1,
-  "projection_cm": 4.5
+  "projection_cm": 4.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8386,7 +13465,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 280,
   "diameter_cm": 11.1,
-  "projection_cm": 4.5
+  "projection_cm": 4.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8398,7 +13478,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 300,
   "diameter_cm": 11.4,
-  "projection_cm": 4.6
+  "projection_cm": 4.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8410,7 +13491,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 300,
   "diameter_cm": 11.4,
-  "projection_cm": 4.6
+  "projection_cm": 4.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8422,7 +13504,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 300,
   "diameter_cm": 11.4,
-  "projection_cm": 4.6
+  "projection_cm": 4.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8434,7 +13517,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 300,
   "diameter_cm": 11.4,
-  "projection_cm": 4.6
+  "projection_cm": 4.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8446,7 +13530,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 330,
   "diameter_cm": 11.7,
-  "projection_cm": 4.7
+  "projection_cm": 4.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8458,7 +13543,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 330,
   "diameter_cm": 11.7,
-  "projection_cm": 4.7
+  "projection_cm": 4.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8470,7 +13556,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 330,
   "diameter_cm": 11.7,
-  "projection_cm": 4.7
+  "projection_cm": 4.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8482,7 +13569,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 330,
   "diameter_cm": 11.7,
-  "projection_cm": 4.7
+  "projection_cm": 4.7,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8494,7 +13582,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 350,
   "diameter_cm": 12.0,
-  "projection_cm": 4.8
+  "projection_cm": 4.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8506,7 +13595,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 350,
   "diameter_cm": 12.0,
-  "projection_cm": 4.8
+  "projection_cm": 4.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8518,7 +13608,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 350,
   "diameter_cm": 12.0,
-  "projection_cm": 4.8
+  "projection_cm": 4.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8530,7 +13621,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 350,
   "diameter_cm": 12.0,
-  "projection_cm": 4.8
+  "projection_cm": 4.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8542,7 +13634,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 385,
   "diameter_cm": 12.3,
-  "projection_cm": 4.9
+  "projection_cm": 4.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8554,7 +13647,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 385,
   "diameter_cm": 12.3,
-  "projection_cm": 4.9
+  "projection_cm": 4.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8566,7 +13660,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 385,
   "diameter_cm": 12.3,
-  "projection_cm": 4.9
+  "projection_cm": 4.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8578,7 +13673,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 385,
   "diameter_cm": 12.3,
-  "projection_cm": 4.9
+  "projection_cm": 4.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8590,7 +13686,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 415,
   "diameter_cm": 12.5,
-  "projection_cm": 5.0
+  "projection_cm": 5.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8602,7 +13699,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 415,
   "diameter_cm": 12.5,
-  "projection_cm": 5.0
+  "projection_cm": 5.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8614,7 +13712,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 415,
   "diameter_cm": 12.5,
-  "projection_cm": 5.0
+  "projection_cm": 5.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8626,7 +13725,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 415,
   "diameter_cm": 12.5,
-  "projection_cm": 5.0
+  "projection_cm": 5.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8638,7 +13738,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 440,
   "diameter_cm": 12.8,
-  "projection_cm": 5.1
+  "projection_cm": 5.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8650,7 +13751,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 440,
   "diameter_cm": 12.8,
-  "projection_cm": 5.1
+  "projection_cm": 5.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8662,7 +13764,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 440,
   "diameter_cm": 12.8,
-  "projection_cm": 5.1
+  "projection_cm": 5.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8674,7 +13777,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 440,
   "diameter_cm": 12.8,
-  "projection_cm": 5.1
+  "projection_cm": 5.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8686,7 +13790,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 470,
   "diameter_cm": 13.1,
-  "projection_cm": 5.2
+  "projection_cm": 5.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8698,7 +13803,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 470,
   "diameter_cm": 13.1,
-  "projection_cm": 5.2
+  "projection_cm": 5.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8710,7 +13816,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 470,
   "diameter_cm": 13.1,
-  "projection_cm": 5.2
+  "projection_cm": 5.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8722,7 +13829,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 470,
   "diameter_cm": 13.1,
-  "projection_cm": 5.2
+  "projection_cm": 5.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8734,7 +13842,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 505,
   "diameter_cm": 13.4,
-  "projection_cm": 5.3
+  "projection_cm": 5.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8746,7 +13855,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 505,
   "diameter_cm": 13.4,
-  "projection_cm": 5.3
+  "projection_cm": 5.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8758,7 +13868,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 505,
   "diameter_cm": 13.4,
-  "projection_cm": 5.3
+  "projection_cm": 5.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8770,7 +13881,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 505,
   "diameter_cm": 13.4,
-  "projection_cm": 5.3
+  "projection_cm": 5.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8782,7 +13894,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 535,
   "diameter_cm": 13.7,
-  "projection_cm": 5.4
+  "projection_cm": 5.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8794,7 +13907,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 535,
   "diameter_cm": 13.7,
-  "projection_cm": 5.4
+  "projection_cm": 5.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8806,7 +13920,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 535,
   "diameter_cm": 13.7,
-  "projection_cm": 5.4
+  "projection_cm": 5.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8818,7 +13933,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 535,
   "diameter_cm": 13.7,
-  "projection_cm": 5.4
+  "projection_cm": 5.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8830,7 +13946,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 565,
   "diameter_cm": 14.0,
-  "projection_cm": 5.5
+  "projection_cm": 5.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8842,7 +13959,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 565,
   "diameter_cm": 14.0,
-  "projection_cm": 5.5
+  "projection_cm": 5.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8854,7 +13972,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 565,
   "diameter_cm": 14.0,
-  "projection_cm": 5.5
+  "projection_cm": 5.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8866,7 +13985,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 565,
   "diameter_cm": 14.0,
-  "projection_cm": 5.5
+  "projection_cm": 5.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8878,7 +13998,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 590,
   "diameter_cm": 14.3,
-  "projection_cm": 5.6
+  "projection_cm": 5.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8890,7 +14011,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 590,
   "diameter_cm": 14.3,
-  "projection_cm": 5.6
+  "projection_cm": 5.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8902,7 +14024,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 590,
   "diameter_cm": 14.3,
-  "projection_cm": 5.6
+  "projection_cm": 5.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8914,7 +14037,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 590,
   "diameter_cm": 14.3,
-  "projection_cm": 5.6
+  "projection_cm": 5.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8926,7 +14050,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 620,
   "diameter_cm": 14.5,
-  "projection_cm": 5.8
+  "projection_cm": 5.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8938,7 +14063,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 620,
   "diameter_cm": 14.5,
-  "projection_cm": 5.8
+  "projection_cm": 5.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8950,7 +14076,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 620,
   "diameter_cm": 14.5,
-  "projection_cm": 5.8
+  "projection_cm": 5.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8962,7 +14089,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 620,
   "diameter_cm": 14.5,
-  "projection_cm": 5.8
+  "projection_cm": 5.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8974,7 +14102,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 650,
   "diameter_cm": 14.7,
-  "projection_cm": 5.9
+  "projection_cm": 5.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8986,7 +14115,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 650,
   "diameter_cm": 14.7,
-  "projection_cm": 5.9
+  "projection_cm": 5.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -8998,7 +14128,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 650,
   "diameter_cm": 14.7,
-  "projection_cm": 5.9
+  "projection_cm": 5.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -9010,7 +14141,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 650,
   "diameter_cm": 14.7,
-  "projection_cm": 5.9
+  "projection_cm": 5.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -9022,7 +14154,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 700,
   "diameter_cm": 14.9,
-  "projection_cm": 6.0
+  "projection_cm": 6.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -9034,7 +14167,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 700,
   "diameter_cm": 14.9,
-  "projection_cm": 6.0
+  "projection_cm": 6.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -9046,7 +14180,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 700,
   "diameter_cm": 14.9,
-  "projection_cm": 6.0
+  "projection_cm": 6.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -9058,7 +14193,8 @@ window.IMPLANTS = [
   "surface": "Textured",
   "volume_cc": 700,
   "diameter_cm": 14.9,
-  "projection_cm": 6.0
+  "projection_cm": 6.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -9070,7 +14206,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 245,
   "diameter_cm": 9.5,
-  "projection_cm": 5.0
+  "projection_cm": 5.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -9082,7 +14219,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 245,
   "diameter_cm": 9.5,
-  "projection_cm": 5.0
+  "projection_cm": 5.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -9094,7 +14232,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 275,
   "diameter_cm": 9.75,
-  "projection_cm": 5.2
+  "projection_cm": 5.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -9106,7 +14245,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 275,
   "diameter_cm": 9.75,
-  "projection_cm": 5.2
+  "projection_cm": 5.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -9118,7 +14258,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 295,
   "diameter_cm": 10.0,
-  "projection_cm": 5.3
+  "projection_cm": 5.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -9130,7 +14271,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 295,
   "diameter_cm": 10.0,
-  "projection_cm": 5.3
+  "projection_cm": 5.3,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -9142,7 +14284,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 315,
   "diameter_cm": 10.25,
-  "projection_cm": 5.4
+  "projection_cm": 5.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -9154,7 +14297,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 315,
   "diameter_cm": 10.25,
-  "projection_cm": 5.4
+  "projection_cm": 5.4,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -9166,7 +14310,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 340,
   "diameter_cm": 10.5,
-  "projection_cm": 5.5
+  "projection_cm": 5.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -9178,7 +14323,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 340,
   "diameter_cm": 10.5,
-  "projection_cm": 5.5
+  "projection_cm": 5.5,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -9190,7 +14336,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 360,
   "diameter_cm": 10.75,
-  "projection_cm": 5.6
+  "projection_cm": 5.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -9202,7 +14349,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 360,
   "diameter_cm": 10.75,
-  "projection_cm": 5.6
+  "projection_cm": 5.6,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -9214,7 +14362,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 395,
   "diameter_cm": 11.0,
-  "projection_cm": 5.8
+  "projection_cm": 5.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -9226,7 +14375,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 395,
   "diameter_cm": 11.0,
-  "projection_cm": 5.8
+  "projection_cm": 5.8,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -9238,7 +14388,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 420,
   "diameter_cm": 11.25,
-  "projection_cm": 5.9
+  "projection_cm": 5.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -9250,7 +14401,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 420,
   "diameter_cm": 11.25,
-  "projection_cm": 5.9
+  "projection_cm": 5.9,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -9262,7 +14414,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 445,
   "diameter_cm": 11.5,
-  "projection_cm": 6.0
+  "projection_cm": 6.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -9274,7 +14427,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 445,
   "diameter_cm": 11.5,
-  "projection_cm": 6.0
+  "projection_cm": 6.0,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -9286,7 +14440,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 470,
   "diameter_cm": 11.75,
-  "projection_cm": 6.1
+  "projection_cm": 6.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -9298,7 +14453,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 470,
   "diameter_cm": 11.75,
-  "projection_cm": 6.1
+  "projection_cm": 6.1,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -9310,7 +14466,8 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 510,
   "diameter_cm": 12.0,
-  "projection_cm": 6.2
+  "projection_cm": 6.2,
+  "height_cm": ""
  },
  {
   "manufacturer": "Sientra",
@@ -9322,6 +14479,7 @@ window.IMPLANTS = [
   "surface": "Smooth",
   "volume_cc": 510,
   "diameter_cm": 12.0,
-  "projection_cm": 6.2
+  "projection_cm": 6.2,
+  "height_cm": ""
  }
 ];

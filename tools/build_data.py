@@ -6,7 +6,7 @@ from allergan_source import PROFILES
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 FIELDS = ["manufacturer", "line", "catalog", "gel", "profile", "shape", "surface",
-          "volume_cc", "diameter_cm", "projection_cm"]
+          "volume_cc", "diameter_cm", "projection_cm", "height_cm"]
 
 rows = []
 for _, (label, prefixes, data) in PROFILES.items():
@@ -15,12 +15,13 @@ for _, (label, prefixes, data) in PROFILES.items():
             rows.append(dict(manufacturer="Allergan", line="Natrelle INSPIRA",
                              catalog=f"{prefix}-{vol}", gel=gel, profile=label,
                              shape="Round", surface="Smooth", volume_cc=vol,
-                             diameter_cm=dia, projection_cm=proj))
+                             diameter_cm=dia, projection_cm=proj, height_cm=""))
 
 for src in sorted((ROOT / "data/source").glob("*.csv")):
     for r in csv.DictReader(open(src)):
         r["volume_cc"] = int(r["volume_cc"])
         r["diameter_cm"] = float(r["diameter_cm"]); r["projection_cm"] = float(r["projection_cm"])
+        r["height_cm"] = float(r["height_cm"]) if r.get("height_cm") else ""
         rows.append(r)
 
 cats = [r["catalog"] for r in rows]

@@ -9,8 +9,11 @@ window.GEL_MAP = {
   "Allergan|SoftTouch": "SoftTouch",
   "Allergan|Cohesive": "Cohesive",
 
-  "Mentor|MemoryGel": "Responsive",     // proposed
-  "Motiva|ProgressiveGel": "Responsive", // proposed
-  "Sientra|HSC": "SoftTouch",           // proposed
-  "Sientra|HSC+": "Cohesive",           // proposed
+  "Mentor|MemoryGel": "Responsive",       // proposed
+  "Mentor|MemoryGel Xtra": "SoftTouch",   // proposed
+  "Mentor|MemoryGel Boost": "Cohesive",   // proposed
+  "Mentor|MemoryShape": "Cohesive",       // proposed (form-stable shaped gel)
+  "Motiva|ProgressiveGel": "Responsive",  // proposed
+  "Sientra|HSC": "SoftTouch",             // proposed
+  "Sientra|HSC+": "Cohesive",             // proposed
 };

@@ -1,10 +1,10 @@
 """Extract competitor catalogs into data/source/<manufacturer>.csv.
 
 Usage:
-  python3 tools/extract_sources.py --mentor MENTOR.xlsx --motiva MOTIVA.pdf --sientra SIENTRA.pdf
+  python3 tools/extract_sources.py --motiva MOTIVA.pdf --sientra SIENTRA.pdf
+(Mentor is handled by extract_mentor_catalog.py.)
 
 Sources used for the current data:
-  Mentor  - MemoryGel variant specification spreadsheet (2026-11-04)
   Motiva  - SmoothSilk Round & SmoothSilk Ergonomix Order Form (US-ERGO1-0001 R1)
   Sientra - Round HSC & HSC+ Quick Reference Guide (MDC-0270 R11)
 """
@@ -13,7 +13,7 @@ import argparse, csv, pathlib, re, subprocess
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "source"
 FIELDS = ["manufacturer", "line", "catalog", "gel", "profile", "shape", "surface",
-          "volume_cc", "diameter_cm", "projection_cm"]
+          "volume_cc", "diameter_cm", "projection_cm", "height_cm"]
 
 
 def pdf_text(path):
@@ -23,20 +23,6 @@ def pdf_text(path):
 
 def num(s):
     return float(re.sub(r"[^\d.]", "", str(s)))
-
-
-def mentor(path):
-    import openpyxl
-    ws = openpyxl.load_workbook(path, read_only=True).active
-    rows = []
-    for profile, code, vol, dia, proj in list(ws.iter_rows(values_only=True))[1:]:
-        if not code:
-            continue
-        rows.append(dict(manufacturer="Mentor", line="MemoryGel", catalog=str(code).strip(),
-                         gel="MemoryGel", profile=profile.replace(" Profile", "").strip(),
-                         shape="Round", surface="Smooth", volume_cc=int(num(vol)),
-                         diameter_cm=num(dia), projection_cm=num(proj)))
-    return rows
 
 
 def motiva(path):
@@ -86,14 +72,13 @@ def write(name, rows):
     with open(OUT / f"{name}.csv", "w", newline="") as f:
         w = csv.DictWriter(f, fieldnames=FIELDS)
         w.writeheader()
-        w.writerows(rows)
+        w.writerows([{**r, "height_cm": ""} for r in rows])
     print(f"{name}: {len(rows)} implants")
 
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
-    ap.add_argument("--mentor"); ap.add_argument("--motiva"); ap.add_argument("--sientra")
+    ap.add_argument("--motiva"); ap.add_argument("--sientra")
     a = ap.parse_args()
-    if a.mentor: write("mentor", mentor(a.mentor))
     if a.motiva: write("motiva", motiva(a.motiva))
     if a.sientra: write("sientra", sientra(a.sientra))

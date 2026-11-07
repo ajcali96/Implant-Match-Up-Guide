@@ -82,13 +82,14 @@
   function renderMatches() {
     const i = current; if (!i) return;
     const mf = $("fMfr").value, sameGel = $("fGel").value === "same";
-    const sameSurf = $("fSurf").value === "same";
+    const sameSurf = $("fSurf").value === "same", sameShape = $("fShape").value === "same";
     const maxW = parseFloat($("fWidth").value);
     const n = parseInt($("fCount").value, 10);
     const list = ALL.filter(c => c !== i)
       .filter(c => mf === "all" ? true : mf === "others" ? c.manufacturer !== BASE_MFR : c.manufacturer === mf)
       .filter(c => !sameGel || tierOf(c) === tierOf(i))
       .filter(c => !sameSurf || c.surface === i.surface)
+      .filter(c => !sameShape || c.shape === i.shape)
       .filter(c => isNaN(maxW) || Math.abs(c.diameter_cm - i.diameter_cm) <= maxW + 1e-9)
       .map(c => ({ c, s: score(i, c) }))
       .sort((a, b) => a.s - b.s)
@@ -99,7 +100,7 @@
         <td><b>${c.catalog}</b></td>
         <td>${c.manufacturer}<small>${c.line}</small></td>
         <td>${c.gel}${tierOf(c) && tierOf(c) !== c.gel ? `<small>≈ ${tierOf(c)}</small>` : ""}</td>
-        <td>${c.profile}<small class="muted">${c.surface}</small></td>
+        <td>${c.profile}<small class="muted">${c.surface} ${c.shape.toLowerCase()}${c.height_cm ? ` · ${c.height_cm.toFixed(1)} cm tall` : ""}</small></td>
         <td>${c.diameter_cm.toFixed(2)}${delta(c.diameter_cm - i.diameter_cm, "cm", 0.25, 0.5)}</td>
         <td>${c.projection_cm.toFixed(1)}${delta(c.projection_cm - i.projection_cm, "cm", 0.3, 0.7)}</td>
         <td>${c.volume_cc}${delta(c.volume_cc - i.volume_cc, "cc", 25, 60)}</td>
@@ -121,7 +122,7 @@
     const hit = base.find(i => i.catalog === $("q").value.trim().toUpperCase());
     if (hit) { setDropdowns(hit); show(hit); }
   });
-  ["fMfr", "fGel", "fSurf", "fWidth", "fCount"].forEach(id => $(id).addEventListener("input", renderMatches));
+  ["fMfr", "fGel", "fShape", "fSurf", "fWidth", "fCount"].forEach(id => $(id).addEventListener("input", renderMatches));
   $("results").addEventListener("click", e => {
     const tr = e.target.closest("tr.pickable"); if (!tr) return;
     const hit = base.find(i => i.catalog === tr.dataset.cat);
