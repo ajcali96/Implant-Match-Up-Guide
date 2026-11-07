@@ -33,7 +33,7 @@ Open `index.html` in any browser. It has no server or internet dependency, so it
 | `tools/build_data.py` | Merges everything into `data/implants.csv` and `data/implants.js` |
 | `data/gels.js` | Gel equivalence table |
 
-### Gel equivalence (proposed, awaiting clinical confirmation)
+### Gel equivalence (confirmed 2026-11-07)
 
 | Allergan tier | Equivalent gels |
 | --- | --- |
@@ -41,7 +41,7 @@ Open `index.html` in any browser. It has no server or internet dependency, so it
 | SoftTouch | Mentor MemoryGel Xtra, Sientra HSC |
 | Cohesive | Mentor MemoryGel Boost, Mentor MemoryShape, Sientra HSC+ |
 
-Once confirmed, set `GEL_MAP_CONFIRMED = true` in `data/gels.js` to hide the "proposed" notice.
+If a gel is added or a tier changed, set `GEL_MAP_CONFIRMED = false` in `data/gels.js` until it is confirmed again.
 
 ### Adding a manufacturer
 
